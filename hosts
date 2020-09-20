@@ -1,4 +1,4 @@
-# 2020-09-21 00:00:12
+# 2020-09-21 01:00:14
 # 小贝塔自用，请勿商用
 
 
@@ -129536,10 +129536,10 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.3                  github.com
-140.82.112.9                  codeload.github.com
-140.82.113.4                  gist.github.com
-140.82.114.6                  api.github.com
+140.82.112.3                  gist.github.com
+140.82.112.4                  github.com
+140.82.112.6                  api.github.com
+140.82.113.9                  codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.68.133                avatars0.githubusercontent.com
@@ -129556,12 +129556,12 @@
 ::1 ip6-localhost
 ::1 ip6-loopback
 ::1 localhost
-23.99.253.181                 github.map.fastly.net
+40.76.21.232                  github.map.fastly.net
+40.76.21.232                  github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.17.0                   github-production-user-asset-6210df.s3.amazonaws.com
-52.216.179.43                 github-cloud.s3.amazonaws.com
-52.216.19.88                  github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.229.155                github-com.s3.amazonaws.com
 52.216.236.43                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.241.148                github-cloud.s3.amazonaws.com
 # GitHub520 Host End
 # GitHub520 Host Start
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
