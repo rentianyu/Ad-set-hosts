@@ -1,4 +1,4 @@
-# 2020-09-21 22:00:16
+# 2020-09-21 23:00:12
 # 小贝塔自用，请勿商用
 
 
@@ -19635,6 +19635,7 @@
 127.0.0.1 b1.baomihua.com
 127.0.0.1 b1.boards2go.com
 127.0.0.1 b1-data.ads.heytapmobi.com
+127.0.0.1 b1-data.ads.heytapmobi.com
 127.0.0.1 b1d.org
 127.0.0.1 b1fe8a95ae27823.com
 127.0.0.1 b1.perfb.com
@@ -28317,6 +28318,7 @@
 127.0.0.1 ck63065.tmweb.ru
 127.0.0.1 ck78179.tmweb.ru
 127.0.0.1 ck.ads.affinity.com
+127.0.0.1 ck.ads.heytapmobi.com
 127.0.0.1 c.kakaku.com
 127.0.0.1 c.kbf365.cn
 127.0.0.1 ckck.fun
@@ -28452,6 +28454,7 @@
 127.0.0.1 clc.wanmancn.com
 127.0.0.1 clc.wanmancn.com
 127.0.0.1 cld4r.com
+127.0.0.1 cl-data.ads.heytapmobi.com
 127.0.0.1 cldctrl.mobile.pptv.com
 127.0.0.1 clddt.com
 127.0.0.1 cld.edg.startappservice.com
@@ -82108,6 +82111,7 @@
 127.0.0.1 s.cnzz.net
 127.0.0.1 scoklahomanews.com
 127.0.0.1 sc.omniture.com
+127.0.0.1 sconf.f.360.cn
 127.0.0.1 scontent-1.2914.fna.fbcdn.net
 127.0.0.1 scontent-2.2914.fna.fbcdn.net
 127.0.0.1 scontent-a-ams.cdninstagram.com
@@ -86161,6 +86165,7 @@
 127.0.0.1 smrtpxl.advertising.com
 127.0.0.1 sms18.in.com
 127.0.0.1 sms-ads.com
+127.0.0.1 sms.ads.heytapmobi.com
 127.0.0.1 sms.ads.oppomobile.com
 127.0.0.1 s.m.shumilou.co
 127.0.0.1 smsiaki.eu
@@ -96527,6 +96532,7 @@
 127.0.0.1 ualumphuoldi.angelcities.com
 127.0.0.1 u.androidgame-store.com
 127.0.0.1 u.anluyg.net
+127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 uapi.ads.oppomobile.com
 127.0.0.1 u.api.look.360.cn
@@ -129618,10 +129624,10 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.10                 codeload.github.com
-140.82.113.6                  api.github.com
-140.82.114.3                  github.com
-140.82.114.4                  gist.github.com
+140.82.113.4                  github.com
+140.82.114.3                  gist.github.com
+140.82.114.6                  api.github.com
+140.82.114.9                  codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.68.133                avatars0.githubusercontent.com
