@@ -15,13 +15,15 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Create local changes
       run: |
+        sudo apt-get install -y dos2unix
         pwd
-        ls
+        ls -al
         bash update_action.sh
     - name: Commit files
       run: |
-        git config user.email "1782898491@qq.com"
-        git config user.name "rentianyu"
+        git config --global user.email "1782898491@qq.com"
+        git config --global user.name "rentianyu"
+        git add .
         git commit -m "Add changes" -a
     - name: Push changes
       uses: ad-m/github-push-action@master

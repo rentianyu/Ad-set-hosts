@@ -1,7 +1,5 @@
 #!/bin/bash
 rm -f ./hosts.txt
-# pull云端到本地
-git pull -f
 
 # 下载去广告hosts合并并去重
 
@@ -43,4 +41,4 @@ curl -s https://raw.githubusercontent.com/521xueweihan/GitHub520/master/hosts >>
 dos2unix *
 
 # 推送到GitHub
-git add . && git commit -m " `date '+%Y-%m-%d %T'` "
+# git add . && git commit -m " `date '+%Y-%m-%d %T'` "
