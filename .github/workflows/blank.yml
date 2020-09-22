@@ -16,11 +16,13 @@ jobs:
     - name: Create local changes
       run: |
         pwd
+        tree
+        ls
         bash update_action.sh
     - name: Commit files
       run: |
-        git config --local user.email "1782898491@qq.com"
-        git config --local user.name "rentianyu"
+        git config user.email "1782898491@qq.com"
+        git config user.name "rentianyu"
         git commit -m "Add changes" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
