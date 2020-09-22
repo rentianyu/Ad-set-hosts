@@ -16,7 +16,6 @@ jobs:
     - name: Create local changes
       run: |
         pwd
-        tree
         ls
         bash update_action.sh
     - name: Commit files
