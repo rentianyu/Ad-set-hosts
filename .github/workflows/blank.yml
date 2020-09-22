@@ -9,10 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    steps:
     - uses: actions/checkout@master
       with:
         persist-credentials: false
         fetch-depth: 0
+
 
     steps:
       - name: Run a multi-line script
