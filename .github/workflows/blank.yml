@@ -6,31 +6,22 @@ on:
     branches: [ master ]
 
 jobs:
-  my_first_job:
-    name: My first job
+  build:
     runs-on: ubuntu-latest
     steps:
-    - name: checkout
-      uses: actions/checkout@master
-
-  my_second_job:
-    name: My second job
-    runs-on: ubuntu-latest
-    steps:
-    - name: Run a multi-line script
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+    - name: Create local changes
       run: |
-        sudo apt-get install -y dos2unix
-        # git clone https://github.com/rentianyu/Ad-set-hosts.git
-        # cd Ad-set-hosts
         pwd
+        bash update_action.sh
+    - name: Commit files
+      run: |
         git config --local user.email "1782898491@qq.com"
         git config --local user.name "rentianyu"
-        bash update_action.sh
-
-  my_third_job:
-    name: My third job
-    runs-on: ubuntu-latest
-    steps:
+        git commit -m "Add changes" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
