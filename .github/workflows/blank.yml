@@ -25,7 +25,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          apt install -y git curl dos2unix wget
+          # apt install -y git curl dos2unix wget
           git clone https://github.com/rentianyu/Ad-set-hosts.git
           cd Ad-set-hosts
           bash update.sh
