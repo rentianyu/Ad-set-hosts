@@ -43,4 +43,4 @@ curl -s https://raw.githubusercontent.com/521xueweihan/GitHub520/master/hosts >>
 dos2unix *
 
 # 推送到GitHub
-git add . && git commit -m " `date '+%Y-%m-%d %T'` " && git push && echo -e " `date '+%Y-%m-%d %T' ` 更新hosts成功"||echo "更新hosts失败..."
+git add . && git commit -m " `date '+%Y-%m-%d %T'` "
