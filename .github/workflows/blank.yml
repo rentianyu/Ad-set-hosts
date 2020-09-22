@@ -6,16 +6,18 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  my_first_job:
+    name: My first job
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@master
-      with:
-        persist-credentials: false
-        fetch-depth: 0
+    - name: checkout
+      uses: actions/checkout@master
 
-      - name: Run a multi-line script
+  my_second_job:
+      name: My second job
+      runs-on: ubuntu-latest
+        steps:
+         - name: Run a multi-line script
         run: |
           sudo apt-get install -y dos2unix
           # git clone https://github.com/rentianyu/Ad-set-hosts.git
@@ -25,7 +27,11 @@ jobs:
           git config --local user.name "rentianyu"
           bash update_action.sh
 
-      - name: Push changes
+  my_third_job:
+      name: My third job
+      runs-on: ubuntu-latest
+        steps:
+        - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
