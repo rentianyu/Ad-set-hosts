@@ -8,14 +8,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    - uses: actions/checkout@master
+      with:
+        persist-credentials: false
+        fetch-depth: 0
+
     steps:
       - name: Run a multi-line script
         run: |
           sudo apt-get install -y dos2unix
-          git clone https://github.com/rentianyu/Ad-set-hosts.git
-          cd Ad-set-hosts
-          git config --global user.email "1782898491@qq.com"
-          git config --global user.name "rentianyu"
+          # git clone https://github.com/rentianyu/Ad-set-hosts.git
+          # cd Ad-set-hosts
+          pwd
+          git config --local user.email "1782898491@qq.com"
+          git config --local user.name "rentianyu"
           bash update_action.sh
 
       - name: Push changes
