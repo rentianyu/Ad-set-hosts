@@ -33,6 +33,7 @@ sed -i '/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;s/#.*//g;s/\s\{2,\}//g;/tencen
 
 # 加入Github520
 curl -s https://raw.githubusercontent.com/521xueweihan/GitHub520/master/hosts >> $t
+sed -i '/GitHub520/d' $t
 
 # 更新hosts
 (echo -e "# `date '+%Y-%m-%d %T'`\n# 小贝塔自用，请勿商用\n\n" && sort -u $t) >$f&&rm $t&&echo "更新hosts成功"||echo "更新hosts失败..."
