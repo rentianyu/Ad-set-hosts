@@ -1,4 +1,4 @@
-# 复制hosts到手机系统
+# 使用小贝塔hosts
 su -c '
 ( mount --remount -w /system || mount --remount -w / )&&
 rm /system/etc/hostsold
