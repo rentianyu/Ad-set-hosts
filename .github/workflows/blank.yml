@@ -16,8 +16,6 @@ jobs:
     - name: Create local changes
       run: |
         sudo apt-get install -y dos2unix
-        pwd
-        ls -al
         bash update_action.sh
     - name: Commit files
       run: |
