@@ -1,4 +1,4 @@
-# 2020-09-24 12:05:28
+# 2020-09-24 13:05:05
 # 小贝塔自用，请勿商用
 
 
@@ -113718,6 +113718,7 @@
 127.0.0.1 www.jf-aesthetic.pl
 127.0.0.1 www.jf365.boc.cn
 127.0.0.1 www.jfjw4cxr.com
+127.0.0.1 www.jfsdiwmnbsk002.top
 127.0.0.1 www.jfsdiwmnbsk003.top
 127.0.0.1 www.jfsdiwmnbsk004.top
 127.0.0.1 www.jfsdiwmnbsk005.top
@@ -119079,6 +119080,7 @@
 127.0.0.1 www.prizelava.com
 127.0.0.1 www.prizes.co.uk
 127.0.0.1 www.prjslxhtx003.top
+127.0.0.1 www.prjslxhtx005.top
 127.0.0.1 www.prl.zerety.xyz
 127.0.0.1 www.pro-factory.com
 127.0.0.1 www.pro-partners.nl
@@ -129624,9 +129626,9 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.10                 codeload.github.com
 140.82.112.4                  gist.github.com
-140.82.112.5                  api.github.com
+140.82.113.5                  api.github.com
+140.82.113.9                  codeload.github.com
 140.82.114.3                  github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
@@ -129642,11 +129644,11 @@
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
 199.232.69.194                github.global.ssl.fastly.net
-52.216.147.140                github-cloud.s3.amazonaws.com
+52.216.139.179                github-cloud.s3.amazonaws.com
 52.216.236.43                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.77.236                 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.104.180                github-com.s3.amazonaws.com
-52.217.41.156                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.0.148                  github-com.s3.amazonaws.com
+52.217.40.204                 github-production-release-asset-2e65be.s3.amazonaws.com
 ::1 ip6-localhost
 ::1 ip6-loopback
 ::1 localhost
