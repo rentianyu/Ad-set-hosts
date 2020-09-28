@@ -1,4 +1,4 @@
-# 2020-09-28 21:05:39
+# 2020-09-28 22:05:49
 # 小贝塔自用，请勿商用
 
 
@@ -4360,6 +4360,7 @@
 127.0.0.1 ad-board.com
 127.0.0.1 ad-brix.com
 127.0.0.1 ad-cache.dopool.com
+127.0.0.1 ad-cdn.qingting.fm
 127.0.0.1 ad-cdn.technoratimedia.com
 127.0.0.1 ad-center.com
 127.0.0.1 ad-channel.wikawika.xyz
@@ -16490,7 +16491,6 @@
 127.0.0.1 anzugreifen9.live
 127.0.0.1 aoc.teleaudio.pl
 127.0.0.1 aod-image.baidu.com
-127.0.0.1 aod-image.baidu.com
 127.0.0.1 aoe.aacdn.jp
 127.0.0.1 aoindustries.com.com
 127.0.0.1 aok.122.207.net
@@ -16591,6 +16591,7 @@
 127.0.0.1 ap.adriver.ru
 127.0.0.1 ap.ads.link4ads.com
 127.0.0.1 ap.adups.com
+127.0.0.1 ap.cpatrk.net
 127.0.0.1 ap.event.cmp.advertising.com
 127.0.0.1 ap.immomo.com
 127.0.0.1 ap.ksrong.com
@@ -16663,6 +16664,7 @@
 127.0.0.1 api-ad.kajicam.com
 127.0.0.1 api-ads.tiantianqutao.com
 127.0.0.1 api-analytics-bootstrap.metaps.com
+127.0.0.1 api-analytics-cn.huami.com
 127.0.0.1 api-analytics.metaps.com
 127.0.0.1 api-app.ants.vn
 127.0.0.1 api-bts.logsss.com
@@ -16825,6 +16827,7 @@
 127.0.0.1 api.appfireworks.com
 127.0.0.1 api.appjiagu.com
 127.0.0.1 api.applifier.com
+127.0.0.1 api.applink.mob.com
 127.0.0.1 api.applovin.com
 127.0.0.1 api.appmedia.cn
 127.0.0.1 api.appnext.com
@@ -41964,7 +41967,6 @@
 127.0.0.1 fee-hydrocodone.bebto.com
 127.0.0.1 feebleshock.com
 127.0.0.1 feed-back.com.tr
-127.0.0.1 feed-image.baidu.com
 127.0.0.1 feed-rt.baronsoffers.com
 127.0.0.1 feed.4wnet.com
 127.0.0.1 feed.adnow.com
@@ -45157,6 +45159,7 @@
 127.0.0.1 gearwom.de
 127.0.0.1 gebadu.com
 127.0.0.1 gecko-hl.snssdk.com
+127.0.0.1 gecko-lq.snssdk.com
 127.0.0.1 gedich.com
 127.0.0.1 geede.info
 127.0.0.1 geek.us.intellitxt.com
@@ -50248,6 +50251,7 @@
 127.0.0.1 ic.ie.027ie.com
 127.0.0.1 ic.ksosoft.com
 127.0.0.1 ic.ksosoft.com
+127.0.0.1 ic.snssdk.com
 127.0.0.1 ic.tynt.com
 127.0.0.1 ic.wps.cn
 127.0.0.1 ic.wps.cn
@@ -58369,6 +58373,7 @@
 127.0.0.1 log-3.previewnetworks.com
 127.0.0.1 log-3.samsungacr.com
 127.0.0.1 log-ads.r7.com
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
 127.0.0.1 log-collector.svctr.zynga.com
 127.0.0.1 log-config.samsungacr.com
 127.0.0.1 log-dbff2e04.us.v2.we-stats.com
@@ -58805,7 +58810,6 @@
 127.0.0.1 logs.51cto.com
 127.0.0.1 logs.81plug.com
 127.0.0.1 logs.aiya.com.cn
-127.0.0.1 logs.amap.com
 127.0.0.1 logs.cafewell.com
 127.0.0.1 logs.cnfol.com
 127.0.0.1 logs.comics.com
@@ -62790,6 +62794,7 @@
 127.0.0.1 me.5.p2l.info
 127.0.0.1 me.afp.chinanews.com
 127.0.0.1 me.com.x9wj2.cn
+127.0.0.1 me.cpatrk.net
 127.0.0.1 me.effectivemeasure.net
 127.0.0.1 me.fqtra.com
 127.0.0.1 me.linkedin.com
@@ -64492,7 +64497,6 @@
 127.0.0.1 minneapolisreview.com
 127.0.0.1 minnesotastatewire.com
 127.0.0.1 minormeeting.com
-127.0.0.1 minorshort.weixin.qq.com
 127.0.0.1 minr.pw
 127.0.0.1 mint.boingboing.net
 127.0.0.1 mintegral.com
@@ -83523,6 +83527,7 @@
 127.0.0.1 sdk.synerise.com
 127.0.0.1 sdk.talkingdata.com
 127.0.0.1 sdk.testflightapp.com
+127.0.0.1 sdk.tf.360.cn
 127.0.0.1 sdk.tigertext.me
 127.0.0.1 sdk.touchcast.com
 127.0.0.1 sdk.tresensa.com
@@ -83588,6 +83593,7 @@
 127.0.0.1 sdkm.w.vip.ams1.inmobi.com
 127.0.0.1 sdkmetrics.mercadopago.com.br
 127.0.0.1 sdkpay.uu.cc
+127.0.0.1 sdkrec.tf.360.cn
 127.0.0.1 sdks.stats-locations.com
 127.0.0.1 sdksitter.m.sjzhushou.com
 127.0.0.1 sdkstat.ggsafe.com
@@ -97138,6 +97144,7 @@
 127.0.0.1 umarkets.io
 127.0.0.1 umbel.com
 127.0.0.1 umbs.ero-advertising.com
+127.0.0.1 umdc.aliapp.org
 127.0.0.1 umeedupvanfoundation.com
 127.0.0.1 umeng.co
 127.0.0.1 umeng.co
