@@ -1,8 +1,7 @@
-# 2020-10-01 22:06:10
+# 2020-10-01 23:05:47
 # 小贝塔自用，请勿商用
 
 
-104.43.201.120                github.map.fastly.net
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.beta.facebook.com
@@ -130005,12 +130004,11 @@
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
 140.82.112.4                  gist.github.com
-140.82.112.4                  github.com
-140.82.112.9                  codeload.github.com
+140.82.114.4                  github.com
 140.82.114.6                  api.github.com
+140.82.114.9                  codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
-199.232.68.133                avatars0.githubusercontent.com
 199.232.68.133                avatars1.githubusercontent.com
 199.232.68.133                avatars2.githubusercontent.com
 199.232.68.133                avatars3.githubusercontent.com
@@ -130020,7 +130018,9 @@
 199.232.68.133                favicons.githubusercontent.com
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
-199.232.69.194                github.global.ssl.fastly.net
+40.121.54.89                  avatars0.githubusercontent.com
+40.121.54.89                  github.global.ssl.fastly.net
+40.121.54.89                  github.map.fastly.net
 52.216.137.132                github-cloud.s3.amazonaws.com
 52.216.144.139                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.236.43                 github-production-repository-file-5c1aeb.s3.amazonaws.com
