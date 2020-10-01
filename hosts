@@ -1,4 +1,4 @@
-# 2020-10-02 00:06:12
+# 2020-10-02 01:05:23
 # 小贝塔自用，请勿商用
 
 
@@ -3774,6 +3774,7 @@
 127.0.0.1 aaukqiooaseseuke.org
 127.0.0.1 aax-cpm.amazon-adsystem.com
 127.0.0.1 aax-eu-dub.amazon.com
+127.0.0.1 aax-eu-retail-direct.amazon-adsystem.com
 127.0.0.1 aax-eu-rtb.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
@@ -26332,6 +26333,7 @@
 127.0.0.1 cdn-01.yumenetworks.com
 127.0.0.1 cdn-1.convertexperiments.com
 127.0.0.1 cdn-7n.pt.zbwowo.com
+127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 cdn-a.yieldlove.com
 127.0.0.1 cdn-a2-ncl.optimizely.com
 127.0.0.1 cdn-adn-foreign.rayjump.com
@@ -26944,6 +26946,7 @@
 127.0.0.1 cdn.lu.sogoucdn.com
 127.0.0.1 cdn.lu.sogoucdn.com
 127.0.0.1 cdn.luckyorange.com
+127.0.0.1 cdn.luyten-98c.com
 127.0.0.1 cdn.m.ambientplatform.vn
 127.0.0.1 cdn.m6r.eu
 127.0.0.1 cdn.madkudu.com
@@ -27716,6 +27719,7 @@
 127.0.0.1 celine-japan.com
 127.0.0.1 cell-phone-giveaways.com
 127.0.0.1 cell.zhybzp.cn
+127.0.0.1 cell3p001.eu-west-1.prod.3p.entry.video-ads.a2z.com
 127.0.0.1 cellfun.mobi
 127.0.0.1 cello24.net
 127.0.0.1 cellorun.info
@@ -30725,6 +30729,7 @@
 127.0.0.1 conf.xiniuz.com
 127.0.0.1 conf1.ppweb.com.cn
 127.0.0.1 confessionangel.canalblog.com
+127.0.0.1 confiant-integrations.global.ssl.fastly.net
 127.0.0.1 config-ltvp.inmobi.com
 127.0.0.1 config.88-f.net
 127.0.0.1 config.acc.sogou.com
@@ -42559,7 +42564,6 @@
 127.0.0.1 fireads.online
 127.0.0.1 fireads.pl
 127.0.0.1 firebase-settings.crashlytics.com
-127.0.0.1 firebasedynamiclinks-ipv4.googleapis.com
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 firebid.pl
@@ -45071,6 +45075,7 @@
 127.0.0.1 gcm.ksmobile.com
 127.0.0.1 gcm.lhhxlj.com
 127.0.0.1 gcounter.hosting4u.net
+127.0.0.1 gcp.api.snapchat.com
 127.0.0.1 gcwdq.com
 127.0.0.1 gd-stats.jpush.cn
 127.0.0.1 gd.ads.vip.gq1.yahoo.com
@@ -47050,7 +47055,6 @@
 127.0.0.1 gtsdk.batmobi.net
 127.0.0.1 gtsmobi.com
 127.0.0.1 gtssl-aia.geotrust.com
-127.0.0.1 gtssl2-ocsp.geotrust.com
 127.0.0.1 gttr.hit.gemius.pl
 127.0.0.1 gttracking.go2cloud.org
 127.0.0.1 gu-pix.appspot.com
@@ -47491,6 +47495,7 @@
 127.0.0.1 hakusuiriki.tv
 127.0.0.1 hal9000.redintelligence.net
 127.0.0.1 hal900018.redintelligence.net
+127.0.0.1 hal900026.redintelligence.net
 127.0.0.1 halc.iadvize.com
 127.0.0.1 halcashpoland.pl
 127.0.0.1 halex.waw.pl
@@ -70452,7 +70457,6 @@
 127.0.0.1 ocpersian.com
 127.0.0.1 ocs.websponsors.com
 127.0.0.1 ocslab.com
-127.0.0.1 ocsp.comodoca.com
 127.0.0.1 ocsp.entrust.net
 127.0.0.1 oct-pass.net
 127.0.0.1 octools.us.intellitxt.com
@@ -79006,6 +79010,7 @@
 127.0.0.1 reasport.pl
 127.0.0.1 reate.info
 127.0.0.1 rebatewager.ag
+127.0.0.1 rebel.ai
 127.0.0.1 rebellionmedia.rotator.hadj7.adjuggler.net
 127.0.0.1 rebelsubway.com
 127.0.0.1 rebevengwas.com
@@ -87969,6 +87974,7 @@
 127.0.0.1 ssl.msdk.qq.com
 127.0.0.1 ssl.newsofnp.com
 127.0.0.1 ssl.nobleqhd.com
+127.0.0.1 ssl.pow.im
 127.0.0.1 ssl.quantserve.com
 127.0.0.1 ssl.reddit.com
 127.0.0.1 ssl.siteimprove.com
@@ -94265,6 +94271,7 @@
 127.0.0.1 tr.selectiveads.net
 127.0.0.1 tr.sex-porn.cam
 127.0.0.1 tr.sex4k.cam
+127.0.0.1 tr.snapchat.com
 127.0.0.1 tr.tu.connect.wunderloop.net
 127.0.0.1 tr.webantenna.info
 127.0.0.1 tr.wl.webads.nl
@@ -130003,10 +130010,10 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.4                  gist.github.com
-140.82.114.4                  github.com
+140.82.112.3                  gist.github.com
+140.82.112.4                  github.com
+140.82.112.9                  codeload.github.com
 140.82.114.6                  api.github.com
-140.82.114.9                  codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.68.133                avatars1.githubusercontent.com
@@ -130018,14 +130025,14 @@
 199.232.68.133                favicons.githubusercontent.com
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
-40.121.54.89                  avatars0.githubusercontent.com
-40.121.54.89                  github.global.ssl.fastly.net
-40.121.54.89                  github.map.fastly.net
-52.216.137.132                github-cloud.s3.amazonaws.com
-52.216.144.139                github-production-release-asset-2e65be.s3.amazonaws.com
+199.232.69.194                github.global.ssl.fastly.net
+40.121.195.28                 avatars0.githubusercontent.com
+40.121.195.28                 github.map.fastly.net
 52.216.236.43                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.249.92                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.77.236                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.0.148                  github-com.s3.amazonaws.com
+52.217.40.116                 github-cloud.s3.amazonaws.com
 ::1 ip6-localhost
 ::1 ip6-loopback
 ::1 localhost
