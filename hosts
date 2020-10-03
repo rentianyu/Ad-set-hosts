@@ -1,4 +1,4 @@
-# 2020-10-03 18:05:25
+# 2020-10-03 19:04:56
 # 小贝塔自用，请勿商用
 
 
@@ -42186,7 +42186,6 @@
 127.0.0.1 ffwap.com
 127.0.0.1 ffxcam.fairfax.com.au
 127.0.0.1 ffxitrack.com
-127.0.0.1 fg.imtt.qq.com
 127.0.0.1 fg.softguy.com
 127.0.0.1 fg.wxxfqc.com
 127.0.0.1 fg.wxxfqc.com
@@ -72412,7 +72411,6 @@
 127.0.0.1 p.hiimps.com
 127.0.0.1 p.ic.tynt.com
 127.0.0.1 p.imigame.com
-127.0.0.1 p.imtt.qq.com
 127.0.0.1 p.inte.sogou.com
 127.0.0.1 p.iovation.com
 127.0.0.1 p.kf3msfm.com
@@ -78846,7 +78844,6 @@
 127.0.0.1 rc.hotkeys.com
 127.0.0.1 rc.hystq.com
 127.0.0.1 rc.i2i.jp
-127.0.0.1 rc.imtt.qq.com
 127.0.0.1 rc.ixiaoyang.cn
 127.0.0.1 rc.jusha.com
 127.0.0.1 rc.mgwcn.com
@@ -97541,7 +97538,6 @@
 127.0.0.1 up2.superadbox.com
 127.0.0.1 up4.ucweb.com
 127.0.0.1 upads.info
-127.0.0.1 upage.imtt.qq.com
 127.0.0.1 upalytics.com
 127.0.0.1 upapps.go2cloud.org
 127.0.0.1 upbbw.com
@@ -103124,7 +103120,6 @@
 127.0.0.1 wunbuck.com
 127.0.0.1 wundercounter.com
 127.0.0.1 wunderino.com
-127.0.0.1 wup.imtt.qq.com
 127.0.0.1 wuploadandfilesonic.j8inn1zektoe.com
 127.0.0.1 wuqdebjfhjas.bid
 127.0.0.1 wurren.iad-03.braze.com
@@ -130274,8 +130269,8 @@
 127.0.0.1 zzzzz4.52896368.com
 140.82.112.3                  gist.github.com
 140.82.112.6                  api.github.com
-140.82.113.3                  github.com
-140.82.114.10                 codeload.github.com
+140.82.113.10                 codeload.github.com
+140.82.114.3                  github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.68.133                avatars0.githubusercontent.com
@@ -130289,12 +130284,12 @@
 199.232.68.133                github.map.fastly.net
 199.232.68.133                raw.githubusercontent.com
 199.232.69.194                github.global.ssl.fastly.net
-23.96.11.228                  user-images.githubusercontent.com
+23.96.121.99                  user-images.githubusercontent.com
+52.216.100.27                 github-cloud.s3.amazonaws.com
 52.216.12.4                   github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.236.43                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.77.236                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.0.148                  github-com.s3.amazonaws.com
-52.217.42.100                 github-cloud.s3.amazonaws.com
 ::1 ip6-localhost
 ::1 ip6-loopback
 ::1 localhost
