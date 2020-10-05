@@ -1,7 +1,9 @@
-# 2020-10-05 20:07:11
+# 2020-10-05 21:05:38
 # 小贝塔自用，请勿商用
 
 
+104.43.244.242                avatars3.githubusercontent.com
+104.43.244.242                raw.githubusercontent.com
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.beta.facebook.com
@@ -130267,16 +130269,15 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.10                 codeload.github.com
 140.82.112.3                  gist.github.com
-140.82.112.3                  github.com
-140.82.114.5                  api.github.com
+140.82.112.9                  codeload.github.com
+140.82.113.6                  api.github.com
+140.82.114.3                  github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.68.133                avatars0.githubusercontent.com
 199.232.68.133                avatars1.githubusercontent.com
 199.232.68.133                avatars2.githubusercontent.com
-199.232.68.133                avatars3.githubusercontent.com
 199.232.68.133                avatars4.githubusercontent.com
 199.232.68.133                avatars5.githubusercontent.com
 199.232.68.133                camo.githubusercontent.com
@@ -130284,12 +130285,11 @@
 199.232.68.133                github.map.fastly.net
 199.232.68.133                user-images.githubusercontent.com
 199.232.69.194                github.global.ssl.fastly.net
-20.185.217.11                 raw.githubusercontent.com
-52.216.136.164                github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.142.84                 github-cloud.s3.amazonaws.com
 52.216.236.43                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.249.4                  github-cloud.s3.amazonaws.com
 52.216.77.236                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.0.148                  github-com.s3.amazonaws.com
+52.217.47.44                  github-production-release-asset-2e65be.s3.amazonaws.com
 ::1 ip6-localhost
 ::1 ip6-loopback
 ::1 localhost
