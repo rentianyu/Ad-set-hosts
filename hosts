@@ -1,4 +1,4 @@
-# 2020-10-08 06:05:21
+# 2020-10-08 07:05:00
 # 小贝塔自用，请勿商用
 
 
@@ -130281,9 +130281,10 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
+13.90.87.57                   github.map.fastly.net
 140.82.112.6                  api.github.com
+140.82.113.3                  github.com
 140.82.113.4                  gist.github.com
-140.82.113.4                  github.com
 140.82.114.9                  codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
@@ -130298,7 +130299,6 @@
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
 199.232.69.194                github.global.ssl.fastly.net
-40.83.19.19                   github.map.fastly.net
 52.216.12.100                 github-production-user-asset-6210df.s3.amazonaws.com
 52.216.136.99                 github-cloud.s3.amazonaws.com
 52.216.153.116                github-production-release-asset-2e65be.s3.amazonaws.com
