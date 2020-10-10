@@ -1,4 +1,4 @@
-# 2020-10-10 20:07:40
+# 2020-10-10 21:05:33
 # 小贝塔自用，请勿商用
 
 
@@ -130060,8 +130060,8 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.10                 codeload.github.com
-140.82.113.4                  gist.github.com
+140.82.112.3                  gist.github.com
+140.82.113.10                 codeload.github.com
 140.82.114.3                  github.com
 140.82.114.6                  api.github.com
 185.199.108.153               github.io
@@ -130080,7 +130080,7 @@
 199.232.69.194                github.global.ssl.fastly.net
 52.216.12.100                 github-production-user-asset-6210df.s3.amazonaws.com
 52.216.20.155                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.17.244                 github-cloud.s3.amazonaws.com
+52.216.205.67                 github-cloud.s3.amazonaws.com
 52.217.66.20                  github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.98.236                 github-com.s3.amazonaws.com
 ::1 ip6-localhost
