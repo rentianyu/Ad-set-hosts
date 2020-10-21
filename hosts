@@ -1,4 +1,4 @@
-# 2020-10-21 20:07:58
+# 2020-10-21 21:06:05
 # 小贝塔自用，请勿商用
 
 
@@ -28499,6 +28499,7 @@
 127.0.0.1 changmaoxinjzo.com
 127.0.0.1 chango.com
 127.0.0.1 changyan.itc.cn
+127.0.0.1 changyan.sohu.com
 127.0.0.1 chanicut.com
 127.0.0.1 chanleone.com
 127.0.0.1 channel-7-news.com
@@ -36444,6 +36445,7 @@
 127.0.0.1 dns.facebook.com
 127.0.0.1 dns.m.sm.cn
 127.0.0.1 dns.novaonx.com
+127.0.0.1 dns.ximalaya.com
 127.0.0.1 dns1.burstnet.com
 127.0.0.1 dns1.cscdns.net
 127.0.0.1 dns1.easydns.com
@@ -67923,6 +67925,7 @@
 127.0.0.1 mtpn.pl
 127.0.0.1 mtrace.play.aiseet.atianqi.com
 127.0.0.1 mtrace.play.aiseet.atianqi.com
+127.0.0.1 mtrace.play.cp81.ott.cibntv.net
 127.0.0.1 mtrace.qq.com
 127.0.0.1 mtrace.qq.com
 127.0.0.1 mtrc1.digital-metric.com
@@ -73789,7 +73792,9 @@
 127.0.0.1 otrs.fyber.com
 127.0.0.1 ots.optimize.webtrends.com
 127.0.0.1 otsserver.com
+127.0.0.1 ott-v0-al.data.mgtv.com
 127.0.0.1 ott.da.mgtv.com
+127.0.0.1 ott.v1.data.mgtv.com
 127.0.0.1 ott2.da.mgtv.com
 127.0.0.1 ott3.da.mgtv.com
 127.0.0.1 ottacknet.112.2o7.net
@@ -87309,6 +87314,7 @@
 127.0.0.1 sf1-3.yobt.com
 127.0.0.1 sf1-4.yobt.com
 127.0.0.1 sf1-5.yobt.com
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
 127.0.0.1 sfads.osdn.com
 127.0.0.1 sfb2-1.yobt.com
 127.0.0.1 sfb2-2.yobt.com
@@ -95921,6 +95927,7 @@
 127.0.0.1 timera-d.openx.net
 127.0.0.1 timerealsimple.112.2o7.net
 127.0.0.1 timeseg.modules.jumptime.com
+127.0.0.1 timeserver.cnzz.net
 127.0.0.1 timeslog.indiatimes.com
 127.0.0.1 timeslogtn.timesnow.tv
 127.0.0.1 timesofbombay.com
@@ -132630,10 +132637,10 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.3                  gist.github.com
+140.82.113.3                  gist.github.com
 140.82.113.4                  github.com
 140.82.113.5                  api.github.com
-140.82.113.9                  codeload.github.com
+140.82.114.9                  codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.68.133                avatars0.githubusercontent.com
