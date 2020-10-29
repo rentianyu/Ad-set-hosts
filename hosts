@@ -1,4 +1,4 @@
-# 2020-10-29 10:13:48
+# 2020-10-29 11:06:24
 # 小贝塔自用，请勿商用
 
 
@@ -36278,8 +36278,6 @@
 127.0.0.1 dl2.bav.baidu.com
 127.0.0.1 dl2.uuserv30.net
 127.0.0.1 dl4.vas.pptv.com
-127.0.0.1 dl_dir.qq.com
-127.0.0.1 dl_dir2.qq.com
 127.0.0.1 dl_dir2.qq.com
 127.0.0.1 dla3hotbanat.info
 127.0.0.1 dladomu.biz
@@ -36294,15 +36292,11 @@
 127.0.0.1 dlb.g11.letvlb.com
 127.0.0.1 dlb.lk
 127.0.0.1 dlb2.g1.letvlb.com
-127.0.0.1 dldir1.qq.com
 127.0.0.1 dldir2.qq.com
-127.0.0.1 dldir2.qq.com
-127.0.0.1 dldir3.qq.com
 127.0.0.1 dldir3.qq.com
 127.0.0.1 dldir5.qq.com
 127.0.0.1 dlee889.mywire.org
 127.0.0.1 dlero.net
-127.0.0.1 dlied6.qq.com
 127.0.0.1 dlied6.qq.com
 127.0.0.1 dlimg.lovfp.com
 127.0.0.1 dline.co
@@ -36917,7 +36911,6 @@
 127.0.0.1 download.sd.baidu.com
 127.0.0.1 download.secureexpertcleaner.com
 127.0.0.1 download.shareazaweb.com
-127.0.0.1 download.sj.qq.com
 127.0.0.1 download.sj.qq.com
 127.0.0.1 download.televisionfanatic.com
 127.0.0.1 download.timesink.com
@@ -93524,7 +93517,6 @@
 127.0.0.1 t.silvinst.com
 127.0.0.1 t.singular.net
 127.0.0.1 t.sj.qq.com
-127.0.0.1 t.sj.qq.com
 127.0.0.1 t.skimresources.com
 127.0.0.1 t.snowball.com
 127.0.0.1 t.srcode.top
@@ -100133,7 +100125,6 @@
 127.0.0.1 upload.yeahmobi.com
 127.0.0.1 upload.youngporntgp.com
 127.0.0.1 upload.zedo.com
-127.0.0.1 upload_data.qq.com
 127.0.0.1 upload_data.qq.com
 127.0.0.1 uploader.shimo.im
 127.0.0.1 uploads.tmweb.ru
@@ -132643,9 +132634,9 @@
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
 140.82.112.4                  github.com
-140.82.112.5                  api.github.com
-140.82.112.9                  codeload.github.com
+140.82.114.10                 codeload.github.com
 140.82.114.4                  gist.github.com
+140.82.114.5                  api.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.68.133                avatars0.githubusercontent.com
