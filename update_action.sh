@@ -28,6 +28,9 @@ https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/iPv4Hosts.txt
 https://raw.githubusercontent.com/521xueweihan/GitHub520/master/hosts
 EOF
 
+# 转换换行符
+dos2unix $t
+
 # 保留必要host
 sed -i '/^\(127\|0\|::\)/!d;s/0.0.0.0/127.0.0.1/g;s/#.*//g;s/\s\{2,\}//g;/tencent\|c\.pc\|xmcdn\|::1l\|::1i\|googletagservices\|zhwnlapi\|samizdat/d' $t
 
@@ -38,8 +41,6 @@ sed -i '/GitHub520/d' $t
 # 更新hosts
 (echo -e "# `date '+%Y-%m-%d %T'`\n# 小贝塔自用，请勿商用\n\n" && sort -u $t) >$f&&rm $t&&echo "更新hosts成功"||echo "更新hosts失败..."
 
-# 转换换行符
-dos2unix *
 
 # 推送到GitHub
 # git add . && git commit -m " `date '+%Y-%m-%d %T'` "
