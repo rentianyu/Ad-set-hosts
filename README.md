@@ -1,3 +1,4 @@
+![rentianyu’s github stats](https://github-readme-stats.vercel.app/api?username=rentianyu&show_icons=true&theme=merko)
 # Ad-set-hosts
 
 <p align="center">
