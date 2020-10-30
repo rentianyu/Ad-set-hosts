@@ -1,5 +1,12 @@
 # Ad-set-hosts
 
+<p align="center">
+    <img alt="Version" src="https://img.shields.io/badge/release-0.0.2-blue"/>
+    <a href="https://github.com/rentianyu">
+        <img alt="Author" src="https://img.shields.io/badge/author-BlueSkyClouds-blueviolet"/>
+    </a>
+</p>
+
 ## 1. 简介
 
 - 本项目集合多个去广告`hosts`并去重
@@ -34,3 +41,7 @@ https://raw.fastgit.org/rentianyu/Ad-set-hosts/master/hosts
 9. ilpl：https://github.com/ilpl/ad-hosts
 10. iOSAdblockList：https://github.com/BlackJack8/iOSAdblockList
 11. Github520(Github加速): https://github.com/521xueweihan/GitHub520
+
+## 访问量
+
+![](http://profile-counter.glitch.me/BlueSkyClouds/count.svg)
