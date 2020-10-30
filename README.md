@@ -1,9 +1,9 @@
 # Ad-set-hosts
 
 <p align="center">
-    <img alt="Version" src="https://img.shields.io/badge/release-0.0.2-blue"/>
+    <img alt="Version" src="https://img.shields.io/badge/release-0.0.1-blue"/>
     <a href="https://github.com/rentianyu">
-        <img alt="Author" src="https://img.shields.io/badge/author-BlueSkyClouds-blueviolet"/>
+        <img alt="Author" src="https://img.shields.io/badge/author-小贝塔-blueviolet"/>
     </a>
 </p>
 
