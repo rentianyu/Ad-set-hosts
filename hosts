@@ -1,8 +1,7 @@
-# 2020-11-12 18:11:56
+# 2020-11-12 19:07:11
 # 小贝塔自用，请勿商用
 
 
-104.210.3.191                 github.map.fastly.net
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.beta.facebook.com
@@ -134507,7 +134506,7 @@
 127.0.0.1 zzpush.58.com
 127.0.0.1 zzrv1uha.njylyljg.com
 127.0.0.1 zzsdtzb.com
-127.0.0.1 zzxbn.comNot found - Request ID: 15826b5d-8a13-41a6-9ab7-58d4f7cc8d4f-2662211127.0.0.1 d.haireig.com
+127.0.0.1 zzxbn.comNot found - Request ID: 8fbaeb9d-5e0c-42a3-a8f1-8d79595796cc-43880747127.0.0.1 d.haireig.com
 127.0.0.1 zzxd.mediav.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy.quyaoya.com
@@ -134519,10 +134518,10 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
+140.82.112.3                  gist.github.com
 140.82.112.5                  api.github.com
-140.82.113.4                  gist.github.com
-140.82.114.10                 codeload.github.com
-140.82.114.4                  github.com
+140.82.113.3                  github.com
+140.82.114.9                  codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.68.133                avatars0.githubusercontent.com
@@ -134536,6 +134535,7 @@
 199.232.68.133                raw.githubusercontent.com
 199.232.68.133                user-images.githubusercontent.com
 199.232.69.194                github.global.ssl.fastly.net
+52.152.134.199                github.map.fastly.net
 52.216.10.59                  github-com.s3.amazonaws.com
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.128.147                github-cloud.s3.amazonaws.com
