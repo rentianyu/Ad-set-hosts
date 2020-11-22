@@ -1,4 +1,4 @@
-# 2020-11-22 16:05:59
+# 2020-11-22 17:05:07
 # 小贝塔自用，请勿商用
 
 
@@ -133644,7 +133644,7 @@
 127.0.0.1 zzpush.58.com
 127.0.0.1 zzrv1uha.njylyljg.com
 127.0.0.1 zzsdtzb.com
-127.0.0.1 zzxbn.comNot found - Request ID: 13ae6b4b-8d34-47d0-ac01-e20d513649b4-2565675127.0.0.1 d.haireig.com
+127.0.0.1 zzxbn.comNot found - Request ID: e07de33c-7f50-42ca-9cfb-5a4fcd006dbf-1100310127.0.0.1 d.haireig.com
 127.0.0.1 zzxd.mediav.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy.quyaoya.com
@@ -133656,10 +133656,12 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.3                  gist.github.com
+13.77.98.75                   avatars4.githubusercontent.com
+13.77.98.75                   favicons.githubusercontent.com
+140.82.112.4                  github.com
 140.82.112.5                  api.github.com
-140.82.112.9                  codeload.github.com
-140.82.113.4                  github.com
+140.82.113.10                 codeload.github.com
+140.82.113.3                  gist.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.69.194                github.global.ssl.fastly.net
@@ -133677,8 +133679,6 @@
 52.216.128.147                github-cloud.s3.amazonaws.com
 52.217.1.4                    github-production-user-asset-6210df.s3.amazonaws.com
 52.217.67.196                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.254.21.44                  avatars4.githubusercontent.com
-52.254.21.44                  favicons.githubusercontent.com
 ::1 ip6-localhost
 ::1 ip6-loopback
 ::1 localhost
