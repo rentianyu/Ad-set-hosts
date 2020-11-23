@@ -1,4 +1,4 @@
-# 2020-11-23 12:05:58
+# 2020-11-23 13:05:17
 # 小贝塔自用，请勿商用
 
 
@@ -135410,7 +135410,7 @@
 127.0.0.1 zzpush.58.com
 127.0.0.1 zzrv1uha.njylyljg.com
 127.0.0.1 zzsdtzb.com
-127.0.0.1 zzxbn.comNot found - Request ID: ee7f106f-f3e0-45a5-bcfe-44295e2277bf-9763775127.0.0.1 d.haireig.com
+127.0.0.1 zzxbn.comNot found - Request ID: b7cbaaab-cc45-4ad8-8405-673ef03ef449-2471914127.0.0.1 d.haireig.com
 127.0.0.1 zzxd.mediav.com
 127.0.0.1 zzy.mipujia.com
 127.0.0.1 zzy.quyaoya.com
@@ -135422,14 +135422,15 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.113.3                  github.com
+140.82.112.10                 codeload.github.com
+140.82.112.4                  gist.github.com
+140.82.113.4                  github.com
 140.82.113.6                  api.github.com
-140.82.114.3                  gist.github.com
-140.82.114.9                  codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.69.194                github.global.ssl.fastly.net
 199.232.96.133                avatars0.githubusercontent.com
+199.232.96.133                avatars1.githubusercontent.com
 199.232.96.133                avatars2.githubusercontent.com
 199.232.96.133                avatars3.githubusercontent.com
 199.232.96.133                avatars4.githubusercontent.com
@@ -135438,13 +135439,12 @@
 199.232.96.133                github.map.fastly.net
 199.232.96.133                raw.githubusercontent.com
 199.232.96.133                user-images.githubusercontent.com
-52.216.0.224                  github-com.s3.amazonaws.com
+23.99.142.111                 favicons.githubusercontent.com
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.128.147                github-cloud.s3.amazonaws.com
+52.216.185.99                 github-com.s3.amazonaws.com
 52.217.1.4                    github-production-user-asset-6210df.s3.amazonaws.com
 52.217.67.196                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-81.255.102.34                 avatars1.githubusercontent.com
-81.255.102.34                 favicons.githubusercontent.com
 ::1 ip6-localhost
 ::1 ip6-loopback
 ::1 localhost
