@@ -1,7 +1,8 @@
-# 2020-12-10 13:14:49
+# 2020-12-10 14:15:55
 # 小贝塔自用，请勿商用
 
 
+127.0.0.1 
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
 127.0.0.1 0.beta.facebook.com
@@ -8042,6 +8043,7 @@
 127.0.0.1 adlooxtracking.com
 127.0.0.1 adlove.jp
 127.0.0.1 adlpo.com
+127.0.0.1 adls.suning.com
 127.0.0.1 adlt.hit.gemius.pl
 127.0.0.1 adlure.net
 127.0.0.1 adlv.hit.gemius.pl
@@ -13387,6 +13389,7 @@
 127.0.0.1 adx.agrantsem.com
 127.0.0.1 adx.allstar.cz
 127.0.0.1 adx.ants.vn
+127.0.0.1 adx.appsdk.com.cn
 127.0.0.1 adx.atnext.com
 127.0.0.1 adx.autohome.com.cn
 127.0.0.1 adx.baolongan.vn
@@ -13422,6 +13425,7 @@
 127.0.0.1 adx.pro.cn
 127.0.0.1 adx.proadscdn.com
 127.0.0.1 adx.relaksit.ru
+127.0.0.1 adx.rrt365.com
 127.0.0.1 adx.starbanner.com
 127.0.0.1 adx.starnewsonline.com
 127.0.0.1 adx.telegram.com
@@ -17030,6 +17034,7 @@
 127.0.0.1 api-gateway.dditsadn.com
 127.0.0.1 api-gateway.us-west-2.elasticbeanstalk.com
 127.0.0.1 api-gdpr.voodoo-tech.io
+127.0.0.1 api-gi.getui.com
 127.0.0.1 api-grpc.lightstep.com
 127.0.0.1 api-iam.intercom.io
 127.0.0.1 api-internal.oncustomer.asia
@@ -19576,6 +19581,7 @@
 127.0.0.1 atpco.ur.gcion.com
 127.0.0.1 atplay.cn
 127.0.0.1 atr.adsmovil.com
+127.0.0.1 atrace.chelaile.net.cn
 127.0.0.1 atrack-a.anthill.vn
 127.0.0.1 atrack.allposters.com
 127.0.0.1 atrack.art.com
@@ -20107,6 +20113,7 @@
 127.0.0.1 b-cdn.wichspornos.com
 127.0.0.1 b-gi.getui.com
 127.0.0.1 b-graph.facebook.com
+127.0.0.1 b-gtc.getui.com
 127.0.0.1 b-m.facebook.com
 127.0.0.1 b-online.de
 127.0.0.1 b-trk10.com
@@ -25179,6 +25186,7 @@
 127.0.0.1 c-eu8.stripst.com
 127.0.0.1 c-eus.w.inmobi.com
 127.0.0.1 c-evt.moatads.com
+127.0.0.1 c-gtc.getui.com
 127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 c-mediation.kz
 127.0.0.1 c-nfa.jd.com
@@ -25424,6 +25432,7 @@
 127.0.0.1 c.moreover.com
 127.0.0.1 c.mozqca.cn
 127.0.0.1 c.mscimg.com
+127.0.0.1 c.mse.360.cn
 127.0.0.1 c.msn.com
 127.0.0.1 c.msn.com.cn
 127.0.0.1 c.msnbc.com
@@ -35972,6 +35981,7 @@
 127.0.0.1 dev.findep.adnow.com
 127.0.0.1 dev.flurry.com
 127.0.0.1 dev.hitbox.com
+127.0.0.1 dev.iyuba.cn
 127.0.0.1 dev.leanplum.com
 127.0.0.1 dev.lms.linkedin.com
 127.0.0.1 dev.mangoads.vn
@@ -48617,6 +48627,7 @@
 127.0.0.1 gsspcln.jp
 127.0.0.1 gssprt.jp
 127.0.0.1 gstat.bitauto.com
+127.0.0.1 gstat.myzaker.com
 127.0.0.1 gtaangels.net
 127.0.0.1 gtafastmoney.pl
 127.0.0.1 gtag.yieldoptimizer.com
@@ -48770,6 +48781,7 @@
 127.0.0.1 gvpcdpgc.edu.in
 127.0.0.1 gvsme.com
 127.0.0.1 gw-interactive-d.openx.net
+127.0.0.1 gw.365you.com
 127.0.0.1 gw.adotsolution.com
 127.0.0.1 gw.anametrix.net
 127.0.0.1 gw.baofeng.com
@@ -59136,6 +59148,7 @@
 127.0.0.1 lbstatic-a.akamaihd.net
 127.0.0.1 lbtube.com
 127.0.0.1 lc-pay.com
+127.0.0.1 lc.getui.com
 127.0.0.1 lc.havod.com
 127.0.0.1 lc.iadvize.com
 127.0.0.1 lc.jiathis.com
@@ -60925,6 +60938,7 @@
 127.0.0.1 logs.aiya.com.cn
 127.0.0.1 logs.amap.com
 127.0.0.1 logs.cafewell.com
+127.0.0.1 logs.chelaile.net.cn
 127.0.0.1 logs.cnfol.com
 127.0.0.1 logs.comics.com
 127.0.0.1 logs.dashlane.com
@@ -79895,10 +79909,13 @@
 127.0.0.1 profile.localytics.com
 127.0.0.1 profile.myspace.com
 127.0.0.1 profile.nixozz.com
+127.0.0.1 profile.se.360.cn
 127.0.0.1 profile.ssp.rambler.ru
 127.0.0.1 profile.uimserv.net
 127.0.0.1 profile.uproxx.com
 127.0.0.1 profile.xx.fbcdn.net
+127.0.0.1 profile1.se.360.cn
+127.0.0.1 profile2.se.360.cn
 127.0.0.1 profiles.hitslink.com
 127.0.0.1 profiles.mydirtyhobby.com
 127.0.0.1 profiles.segment.com
@@ -86670,6 +86687,7 @@
 127.0.0.1 sdk-ios.ad.smaato.net
 127.0.0.1 sdk-key.ulsee.com
 127.0.0.1 sdk-log.gwallet.com
+127.0.0.1 sdk-open-phone.getui.com
 127.0.0.1 sdk-orion.appboy.com
 127.0.0.1 sdk-orion.appboycomnulled.iad.appboy.com
 127.0.0.1 sdk-os.mpsdk.easebar.com
@@ -88385,8 +88403,11 @@
 127.0.0.1 sf1-3.yobt.com
 127.0.0.1 sf1-4.yobt.com
 127.0.0.1 sf1-5.yobt.com
+127.0.0.1 sf1-be-pack.pglstatp-toutiao.com
+127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
-127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
+127.0.0.1 sf6-fe-tos.pglstatp-toutiao
 127.0.0.1 sfads.osdn.com
 127.0.0.1 sfb2-1.yobt.com
 127.0.0.1 sfb2-2.yobt.com
@@ -91315,6 +91336,7 @@
 127.0.0.1 ss-01.com
 127.0.0.1 ss-cdn.femjoy.com
 127.0.0.1 ss.c.appier.net
+127.0.0.1 ss.chelaile.net.cn
 127.0.0.1 ss.cnczjy.com
 127.0.0.1 ss.cnnic.cn
 127.0.0.1 ss.crowdprocess.com
@@ -96162,6 +96184,7 @@
 127.0.0.1 temptingangels.org
 127.0.0.1 temptmag.com
 127.0.0.1 tempura.contentssl.com
+127.0.0.1 ten.sngapm.qq.com
 127.0.0.1 tend.io
 127.0.0.1 tenderboys.net
 127.0.0.1 tendersource.com
@@ -101047,6 +101070,7 @@
 127.0.0.1 umarkets.io
 127.0.0.1 umbel.com
 127.0.0.1 umbs.ero-advertising.com
+127.0.0.1 umdc.aliapp.org
 127.0.0.1 umeng.co
 127.0.0.1 umeng.com
 127.0.0.1 umengacs.m.taobao.com
