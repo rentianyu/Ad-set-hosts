@@ -1,4 +1,4 @@
-# 2020-12-13 06:15:50
+# 2020-12-13 07:14:57
 # 小贝塔自用，请勿商用
 
 
@@ -135239,10 +135239,8 @@
 127.0.0.1 zzzzz4.52896368.com
 140.82.113.10                 codeload.github.com
 140.82.113.4                  gist.github.com
+140.82.113.4                  github.com
 140.82.114.5                  api.github.com
-168.61.172.89                 avatars5.githubusercontent.com
-168.61.172.89                 github.com
-168.61.172.89                 raw.githubusercontent.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.69.194                github.global.ssl.fastly.net
@@ -135254,7 +135252,9 @@
 199.232.96.133                camo.githubusercontent.com
 199.232.96.133                favicons.githubusercontent.com
 199.232.96.133                github.map.fastly.net
+199.232.96.133                raw.githubusercontent.com
 199.232.96.133                user-images.githubusercontent.com
+40.122.172.5                  avatars5.githubusercontent.com
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.128.147                github-cloud.s3.amazonaws.com
 52.217.17.148                 github-production-user-asset-6210df.s3.amazonaws.com
