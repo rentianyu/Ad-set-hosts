@@ -1,4 +1,4 @@
-# 2020-12-13 10:24:06
+# 2020-12-13 11:15:59
 # 小贝塔自用，请勿商用
 
 
@@ -135238,9 +135238,10 @@
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
 140.82.112.10                 codeload.github.com
-140.82.113.4                  gist.github.com
-140.82.113.4                  github.com
-140.82.114.5                  api.github.com
+140.82.112.5                  api.github.com
+140.82.114.4                  gist.github.com
+140.82.114.4                  github.com
+168.61.166.241                avatars5.githubusercontent.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.69.194                github.global.ssl.fastly.net
@@ -135259,7 +135260,6 @@
 52.217.17.148                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.39.108                 github-com.s3.amazonaws.com
 52.217.96.108                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.255.170.160                avatars5.githubusercontent.com
 ::1 ip6-localhost
 ::1 ip6-loopback
 ::1 localhost
