@@ -21,7 +21,7 @@ jobs:
         bash update_action.sh
     - name: Commit files
       run: |
-        git config --global user.email "113888492@qq.com"
+        git config --global user.email "1138492@qq.com"
         git config --global user.name "rentianyu"
         git add .
         git commit -m "Add changes" -a
