@@ -1,7 +1,8 @@
-# 2020-12-21 23:33:17
+# 2020-12-22 00:46:38
 # 小贝塔自用，请勿商用
 
 
+104.43.142.16                 gist.github.com
 127.0.0.1 
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
@@ -135767,11 +135768,9 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-13.82.141.231                 github-production-user-asset-6210df.s3.amazonaws.com
-140.82.112.10                 codeload.github.com
 140.82.112.5                  api.github.com
-140.82.113.4                  gist.github.com
-140.82.114.3                  github.com
+140.82.113.3                  github.com
+140.82.114.10                 codeload.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.69.194                github.global.ssl.fastly.net
@@ -135788,7 +135787,8 @@
 199.232.96.133                user-images.githubusercontent.com
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.128.147                github-cloud.s3.amazonaws.com
-52.216.177.107                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.146.43                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.207.115                github-production-user-asset-6210df.s3.amazonaws.com
 52.217.40.68                  github-com.s3.amazonaws.com
 ::1 ip6-localhost
 ::1 ip6-loopback
