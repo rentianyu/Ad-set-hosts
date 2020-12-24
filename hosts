@@ -1,4 +1,4 @@
-# 2020-12-24 09:12:03
+# 2020-12-24 10:47:22
 # 小贝塔自用，请勿商用
 
 
@@ -25594,6 +25594,7 @@
 127.0.0.1 c.wwkqh.top
 127.0.0.1 c.x.cn.miaozhen.com
 127.0.0.1 c.x.oanda.com
+127.0.0.1 c.xadingli.cn
 127.0.0.1 c.xd-cdn.com
 127.0.0.1 c.xhsxgmt.cn
 127.0.0.1 c.xianguonongchang.org
@@ -25619,6 +25620,7 @@
 127.0.0.1 c.zheare.com
 127.0.0.1 c.zlongad.com
 127.0.0.1 c.zmjuan.org
+127.0.0.1 c.zoepb.cn
 127.0.0.1 c.zxyywdj.org
 127.0.0.1 c0-vcdn.anthill.vn
 127.0.0.1 c0.adalyser.com
@@ -42049,6 +42051,7 @@
 127.0.0.1 ewebcounter.com
 127.0.0.1 eweek.us.intellitxt.com
 127.0.0.1 ewelinaplanuje.pl
+127.0.0.1 ewg9465443.y4j32.cn
 127.0.0.1 ewills.access.ly
 127.0.0.1 ewm.booru.org
 127.0.0.1 ewordofmouth.com
@@ -45871,6 +45874,7 @@
 127.0.0.1 g.gridsum.com
 127.0.0.1 g.guanxiwen.cn
 127.0.0.1 g.haluoha.com
+127.0.0.1 g.hngjjxsb.com
 127.0.0.1 g.hsw.cn
 127.0.0.1 g.hutao1.cn
 127.0.0.1 g.hw6.com
@@ -55613,6 +55617,7 @@
 127.0.0.1 j.s11.cn
 127.0.0.1 j.sahcdn.com
 127.0.0.1 j.sc1369.com
+127.0.0.1 j.scswuliu.com
 127.0.0.1 j.sdqoi2d.com
 127.0.0.1 j.sjzdomeili.com
 127.0.0.1 j.somewrite.jp
@@ -66599,6 +66604,7 @@
 127.0.0.1 mikopi.com
 127.0.0.1 mikouaa.angelfire.com
 127.0.0.1 mil-colores.com
+127.0.0.1 mil.gbzumh.cn
 127.0.0.1 milano.koscian.pl
 127.0.0.1 milanohotels.org
 127.0.0.1 milanuncios.pushengage.com
@@ -102344,6 +102350,7 @@
 127.0.0.1 v.whatsapp.net
 127.0.0.1 v.wqmgmrb.cn
 127.0.0.1 v.wqsph.net
+127.0.0.1 v.xadingli.cn
 127.0.0.1 v.xinshide.cn
 127.0.0.1 v.xiuzhenjewelry.cn
 127.0.0.1 v.xrooxeo.cn
@@ -102356,6 +102363,7 @@
 127.0.0.1 v.zeroredirect.com
 127.0.0.1 v.zeroredirect1.com
 127.0.0.1 v.zeroredirect2.com
+127.0.0.1 v.zoepb.cn
 127.0.0.1 v0-vcdn.anthill.vn
 127.0.0.1 v0.anthill.vn
 127.0.0.1 v0.cdn3x.com
@@ -104308,6 +104316,7 @@
 127.0.0.1 voordeel.ad.nl
 127.0.0.1 vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
 127.0.0.1 vop.sundaysky.com
+127.0.0.1 voq3450129.y4j32.cn
 127.0.0.1 vorcu.go2cloud.org
 127.0.0.1 vorlon.ferretsoft.com
 127.0.0.1 vortex-sandbox.data.microsoft.com
@@ -127924,6 +127933,7 @@
 127.0.0.1 www.tagservices.com
 127.0.0.1 www.tai777777.com
 127.0.0.1 www.tainster.com
+127.0.0.1 www.taisi666.top
 127.0.0.1 www.taiwanlottery.com.tw
 127.0.0.1 www.tajonis.com
 127.0.0.1 www.tajskimasazsopot.pl
@@ -135768,10 +135778,9 @@
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
 140.82.112.3                  github.com
-140.82.113.3                  gist.github.com
-140.82.114.10                 codeload.github.com
+140.82.113.9                  codeload.github.com
+140.82.114.4                  gist.github.com
 140.82.114.6                  api.github.com
-151.101.185.194               github.map.fastly.net
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.69.194                github.global.ssl.fastly.net
@@ -135783,6 +135792,7 @@
 199.232.96.133                avatars5.githubusercontent.com
 199.232.96.133                camo.githubusercontent.com
 199.232.96.133                favicons.githubusercontent.com
+199.232.96.133                github.map.fastly.net
 199.232.96.133                raw.githubusercontent.com
 199.232.96.133                user-images.githubusercontent.com
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
