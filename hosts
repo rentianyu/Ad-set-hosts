@@ -1,4 +1,4 @@
-# 2021-01-11 11:07:27
+# 2021-01-11 12:53:02
 # 小贝塔自用，请勿商用
 
 
@@ -136006,10 +136006,11 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
+13.68.114.95                  camo.githubusercontent.com
+13.68.114.95                  gist.github.com
 140.82.112.10                 codeload.github.com
-140.82.112.3                  gist.github.com
-140.82.112.5                  api.github.com
-140.82.113.4                  github.com
+140.82.114.4                  github.com
+140.82.114.6                  api.github.com
 185.199.108.153               github.io
 185.199.108.154               github.githubassets.com
 199.232.69.194                github.global.ssl.fastly.net
@@ -136019,7 +136020,6 @@
 199.232.96.133                avatars3.githubusercontent.com
 199.232.96.133                avatars4.githubusercontent.com
 199.232.96.133                avatars5.githubusercontent.com
-199.232.96.133                camo.githubusercontent.com
 199.232.96.133                favicons.githubusercontent.com
 199.232.96.133                github.map.fastly.net
 199.232.96.133                raw.githubusercontent.com
