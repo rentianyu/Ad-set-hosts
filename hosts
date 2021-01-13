@@ -1,8 +1,7 @@
-# 2021-01-13 22:01:10
+# 2021-01-13 22:53:18
 # 小贝塔自用，请勿商用
 
 
-104.41.147.170                github.map.fastly.net
 127.0.0.1 
 127.0.0.1 0-act.channel.facebook.com
 127.0.0.1 0-edge-chat.facebook.com
@@ -136215,10 +136214,11 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.10                 codeload.github.com
-140.82.112.3                  gist.github.com
-140.82.113.5                  api.github.com
-140.82.114.4                  github.com
+13.82.182.212                 github.map.fastly.net
+140.82.112.6                  api.github.com
+140.82.112.9                  codeload.github.com
+140.82.113.3                  gist.github.com
+140.82.113.3                  github.com
 185.199.108.153               github.io
 185.199.108.153               githubstatus.com
 185.199.108.154               github.githubassets.com
@@ -136237,7 +136237,7 @@
 52.216.128.147                github-cloud.s3.amazonaws.com
 52.216.140.148                github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.147.180                github-production-user-asset-6210df.s3.amazonaws.com
-52.216.225.208                github-com.s3.amazonaws.com
+52.216.161.83                 github-com.s3.amazonaws.com
 64.71.168.201                 github.community
 ::1 ip6-localhost
 ::1 ip6-loopback
