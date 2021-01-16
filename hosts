@@ -1,4 +1,4 @@
-# 2021-01-16 21:59:14
+# 2021-01-16 22:48:18
 # 小贝塔自用，请勿商用
 
 
@@ -863,6 +863,7 @@
 127.0.0.1 1priest1nun.com
 127.0.0.1 1priest1nun.net
 127.0.0.1 1pt.cqcounter.com
+127.0.0.1 1pzskg.cn
 127.0.0.1 1q.org
 127.0.0.1 1q0bjj4d39.top
 127.0.0.1 1qingdao.com
@@ -63209,6 +63210,7 @@
 127.0.0.1 m.ubaii.com
 127.0.0.1 m.uc123.com
 127.0.0.1 m.ucaii.com
+127.0.0.1 m.ucc.gxfc2021.top
 127.0.0.1 m.uchij.com
 127.0.0.1 m.ucxxii.com
 127.0.0.1 m.uerzyr.cn
@@ -63425,6 +63427,7 @@
 127.0.0.1 m.yoyi.com.cn
 127.0.0.1 m.yplzarxt.cn
 127.0.0.1 m.yqbyiw86.cn
+127.0.0.1 m.yqqlm.vip
 127.0.0.1 m.ysdhe.com
 127.0.0.1 m.ysgsq.cn
 127.0.0.1 m.yttz113.com
@@ -98004,6 +98007,7 @@
 127.0.0.1 tmk-secure.smartadserver.com
 127.0.0.1 tmk.smartadserver.com
 127.0.0.1 tml.clmbtech.com
+127.0.0.1 tmlm.ljmei.com
 127.0.0.1 tmn-d.openx.net
 127.0.0.1 tmobile-us.inq.com
 127.0.0.1 tmp-heliosiq.adtech.de
@@ -136238,13 +136242,15 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.3                  gist.github.com
 140.82.112.5                  api.github.com
-140.82.113.4                  github.com
-140.82.114.10                 codeload.github.com
+140.82.113.3                  gist.github.com
+140.82.113.9                  codeload.github.com
+140.82.114.3                  github.com
 185.199.108.153               github.io
 185.199.108.153               githubstatus.com
 185.199.108.154               github.githubassets.com
+192.168.7.1                   github.map.fastly.net
+199.232.28.133                raw.githubusercontent.com
 199.232.69.194                github.global.ssl.fastly.net
 199.232.96.133                avatars0.githubusercontent.com
 199.232.96.133                avatars1.githubusercontent.com
@@ -136254,14 +136260,12 @@
 199.232.96.133                avatars5.githubusercontent.com
 199.232.96.133                camo.githubusercontent.com
 199.232.96.133                favicons.githubusercontent.com
-199.232.96.133                raw.githubusercontent.com
 199.232.96.133                user-images.githubusercontent.com
-40.79.20.245                  github.map.fastly.net
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.128.147                github-cloud.s3.amazonaws.com
 52.216.138.195                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.238.251                github-com.s3.amazonaws.com
 52.216.99.67                  github-production-user-asset-6210df.s3.amazonaws.com
+52.217.9.228                  github-com.s3.amazonaws.com
 64.71.168.201                 github.community
 ::1 ip6-localhost
 ::1 ip6-loopback
