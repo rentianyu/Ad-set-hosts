@@ -1,4 +1,4 @@
-# 2021-01-16 19:52:30
+# 2021-01-16 20:52:57
 # 小贝塔自用，请勿商用
 
 
@@ -20250,6 +20250,7 @@
 127.0.0.1 b.company-target.com
 127.0.0.1 b.computerworlduk.com
 127.0.0.1 b.criteo.com
+127.0.0.1 b.daylskg.cn
 127.0.0.1 b.de.inmobi.com
 127.0.0.1 b.detetoigrae.com
 127.0.0.1 b.digitalartsonline.co.uk
@@ -35470,6 +35471,7 @@
 127.0.0.1 ddfcash.com
 127.0.0.1 ddfnetwork.com
 127.0.0.1 ddgbabes.net
+127.0.0.1 ddgouf.dnfkong.com
 127.0.0.1 ddi2.com
 127.0.0.1 ddkkrrla.m.qxs.la
 127.0.0.1 ddl.okgoodmobi.com
@@ -81838,6 +81840,7 @@
 127.0.0.1 qq.m.cn.miaozhen.com
 127.0.0.1 qq.vvx.highter.top
 127.0.0.1 qq.wrating.com
+127.0.0.1 qq.zoujuhonglawyer.com
 127.0.0.1 qq77.gu833.com
 127.0.0.1 qq88bet.net
 127.0.0.1 qqa.miaozhu823.com
@@ -136235,10 +136238,10 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
-140.82.112.10                 codeload.github.com
-140.82.113.6                  api.github.com
-140.82.114.3                  github.com
-140.82.114.4                  gist.github.com
+140.82.112.3                  gist.github.com
+140.82.112.5                  api.github.com
+140.82.113.4                  github.com
+140.82.114.10                 codeload.github.com
 185.199.108.153               github.io
 185.199.108.153               githubstatus.com
 185.199.108.154               github.githubassets.com
@@ -136253,7 +136256,7 @@
 199.232.96.133                favicons.githubusercontent.com
 199.232.96.133                raw.githubusercontent.com
 199.232.96.133                user-images.githubusercontent.com
-40.87.64.128                  github.map.fastly.net
+40.79.20.245                  github.map.fastly.net
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.128.147                github-cloud.s3.amazonaws.com
 52.216.138.195                github-production-repository-file-5c1aeb.s3.amazonaws.com
