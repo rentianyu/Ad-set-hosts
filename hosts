@@ -1,4 +1,4 @@
-# 2021-01-30 21:30:24
+# 2021-01-30 22:30:40
 # 小贝塔自用，请勿商用
 
 
@@ -53162,7 +53162,6 @@
 127.0.0.1 img.kukudm.com
 127.0.0.1 img.kurocore.com
 127.0.0.1 img.kuwanpx.com
-127.0.0.1 img.kuyun88.com
 127.0.0.1 img.l3.cdn.redtubefiles.com
 127.0.0.1 img.lavanetwork.net
 127.0.0.1 img.layer-ads.de
@@ -136416,12 +136415,12 @@
 127.0.0.1 zzzzz4.52896368.com
 140.82.112.5                  api.github.com
 140.82.113.10                 codeload.github.com
-140.82.113.3                  gist.github.com
-140.82.113.4                  github.com
+140.82.114.4                  gist.github.com
+140.82.114.4                  github.com
 185.199.108.153               github.io
 185.199.108.153               githubstatus.com
 185.199.108.154               github.githubassets.com
-199.232.28.133                raw.githubusercontent.com
+199.232.28.133                user-images.githubusercontent.com
 199.232.69.194                github.global.ssl.fastly.net
 199.232.96.133                avatars.githubusercontent.com
 199.232.96.133                avatars0.githubusercontent.com
@@ -136432,8 +136431,8 @@
 199.232.96.133                avatars5.githubusercontent.com
 199.232.96.133                camo.githubusercontent.com
 199.232.96.133                favicons.githubusercontent.com
-199.232.96.133                user-images.githubusercontent.com
-40.114.29.185                 github.map.fastly.net
+199.232.96.133                github.map.fastly.net
+199.232.96.133                raw.githubusercontent.com
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.128.147                github-cloud.s3.amazonaws.com
 52.216.177.43                 github-production-user-asset-6210df.s3.amazonaws.com
