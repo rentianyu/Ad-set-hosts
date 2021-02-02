@@ -1,4 +1,4 @@
-# 2021-02-03 05:21:27
+# 2021-02-03 06:33:36
 # 小贝塔自用，请勿商用
 
 
@@ -137000,10 +137000,12 @@
 127.0.0.1 zzzrtrcm2.com
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
+13.68.103.59                  github-com.s3.amazonaws.com
+13.68.103.59                  github.community
 140.82.112.21                 central.github.com
 140.82.112.4                  gist.github.com
-140.82.112.9                  codeload.github.com
-140.82.114.3                  github.com
+140.82.113.9                  codeload.github.com
+140.82.114.4                  github.com
 140.82.114.6                  api.github.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.153               github.io
@@ -137023,8 +137025,6 @@
 199.232.96.133                github.map.fastly.net
 199.232.96.133                raw.githubusercontent.com
 199.232.96.133                user-images.githubusercontent.com
-52.170.60.50                  github-com.s3.amazonaws.com
-52.170.60.50                  github.community
 52.216.107.188                github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.128.147                github-cloud.s3.amazonaws.com
 52.217.80.164                 github-production-repository-file-5c1aeb.s3.amazonaws.com
