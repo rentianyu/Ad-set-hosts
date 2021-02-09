@@ -1,4 +1,4 @@
-# 2021-02-10 01:37:48
+# 2021-02-10 02:24:51
 # 小贝塔自用，请勿商用
 
 
@@ -137765,10 +137765,10 @@
 127.0.0.1 zzztube.com
 127.0.0.1 zzzzz4.52896368.com
 140.82.112.21                 central.github.com
-140.82.112.3                  github.com
+140.82.112.4                  github.com
 140.82.112.5                  api.github.com
 140.82.113.10                 codeload.github.com
-140.82.114.4                  gist.github.com
+140.82.113.4                  gist.github.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.153               github.io
 185.199.108.153               githubstatus.com
@@ -137788,7 +137788,7 @@
 199.232.96.133                media.githubusercontent.com
 199.232.96.133                raw.githubusercontent.com
 199.232.96.133                user-images.githubusercontent.com
-52.216.153.124                github-cloud.s3.amazonaws.com
+219.76.4.4                    github-cloud.s3.amazonaws.com
 52.216.236.43                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.48.36                  github-com.s3.amazonaws.com
 52.217.80.164                 github-production-repository-file-5c1aeb.s3.amazonaws.com
