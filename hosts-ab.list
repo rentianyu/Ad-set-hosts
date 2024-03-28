@@ -1,0 +1,16 @@
+# adtidy 手机广告
+https://filters.adtidy.org/android/filters/11_optimized.txt
+# adtidy 手机中文广告
+https://filters.adtidy.org/android/filters/104_optimized.txt
+https://filters.adtidy.org/android/filters/11_optimized.txt
+# https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+# https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+# https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
+# https://filters.adtidy.org/extension/ublock/filters/15_optimized.txt
+# https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt
+# https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+# https://raw.githubusercontent.com/lennihein/LostAd/main/lostad.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
