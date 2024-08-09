@@ -1,0 +1,43 @@
+查看文件大小
+4.1M	ab
+4.0K	action_bash.sh
+4.0K	action_fish.sh
+7.2M	adguard
+112K	edge_phone
+6.3M	host
+9.5M	hosts
+4.0K	hosts-ab.list
+4.0K	hosts.list
+17M	hosts6
+4.0K	info.txt
+424K	iOSAdblock
+13M	raw
+4.0K	README.md
+4.0K	white.list
+8.0K	xiaobeita
+
+一级文件行数：
+       0 ab
+     105 action_bash.sh
+     118 action_fish.sh
+  337333 adguard
+       0 edge_phone
+  337334 host
+  337352 hosts
+      16 hosts-ab.list
+      26 hosts.list
+  674704 hosts6
+      29 info.txt
+       0 iOSAdblock
+  471798 raw
+      55 README.md
+      18 white.list
+       0 xiaobeita
+ 2158888 total
+
+二级文件行数：
+ 152184 ab/hosts
+   4003 edge_phone/hosts
+  14316 iOSAdblock/hosts
+    131 xiaobeita/hosts
+ 170634 total
