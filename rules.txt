@@ -1,0 +1,51 @@
+
+
+#  https://adaway.org/
+https://adaway.org/hosts.txt adaway.host
+
+
+
+# yhosts：https://github.com/VeleSila/yhosts
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts yhosts.host
+
+# 大圣净化：https://github.com/jdlingyu/ad-wars
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts ad-wars.host
+
+
+# 1024_hosts：https://github.com/Goooler/1024_hosts
+https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts 1024_hosts.host
+
+# StevenBlack：https://github.com/StevenBlack/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts StevenBlack.host
+
+# ilpl：https://github.com/ilpl/ad-hosts
+https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts ilpl.host
+
+# 非官方夸克hosts https://github.com/francis-zhao/quarklist
+https://raw.githubusercontent.com/francis-zhao/quarklist/master/dist/hosts quarklist.host
+
+# hblock https://hblock.molinero.dev
+#https://hblock.molinero.dev/hosts hblock.host
+
+# https://github.com/mrchi/adaway-hosts 
+https://raw.githubusercontent.com/mrchi/adaway-hosts/main/anti-ad-adaway.txt adaway.host
+
+# 小贝塔
+https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/xiaobeita/hosts xiaobeita.host
+
+# adtidy 手机广告
+https://filters.adtidy.org/android/filters/11_optimized.txt 11_optimized.adg
+# adtidy 手机中文广告
+https://filters.adtidy.org/android/filters/104_optimized.txt 104_optimized.adg
+https://filters.adtidy.org/android/filters/11_optimized.txt 11_optimized.adg
+# https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt 2_optimized.adg
+# https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt 3_optimized.adg
+# https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt 11_optimized.adg
+# https://filters.adtidy.org/extension/ublock/filters/15_optimized.txt 15_optimized.adg
+# https://filters.adtidy.org/extension/ublock/filters/104_optimized.txt 104_optimized.adg
+# https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt 224_optimized.adg
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt ios_rule_script.adg
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt easylist.adg
+# https://raw.githubusercontent.com/lennihein/LostAd/main/lostad.txt lostad.adg
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt filter_224_Chinese.adg
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt filter_11_Mobile.adg
