@@ -1,0 +1,52 @@
+查看文件大小
+4.0K	action_fish.sh
+0	adg_raw.adg
+7.3M	adguard
+6.4M	host
+6.7M	host.host
+9.4M	hosts
+17M	hosts6
+4.0K	info.txt
+17M	raw
+4.0K	README.md
+4.0K	rules.txt
+4.0K	white.list
+20K	white_del.list
+8.0K	xiaobeita
+
+一级文件行数：
+     122 action_fish.sh
+       0 adg_raw.adg
+  320410 adguard
+  320411 host
+  341898 host.host
+  320429 hosts
+  640858 hosts6
+      24 info.txt
+       0 raw
+      55 README.md
+      51 rules.txt
+      25 white.list
+     402 white_del.list
+       0 xiaobeita
+ 1944685 total
+
+二级文件行数：
+    7733 raw/11_optimized.adg
+   10379 raw/104_optimized.adg
+    3242 raw/1024_hosts.host
+    1738 raw/ad-wars.host
+   97532 raw/adaway.host
+   31135 raw/easylist.adg
+    4003 raw/edge_phone.host
+    8963 raw/filter_11_Mobile.adg
+   21397 raw/filter_224_Chinese.adg
+    1021 raw/ilpl.host
+  185886 raw/ios_rule_script.adg
+   14365 raw/iOSAdblock.host
+     707 raw/quarklist.host
+  219694 raw/StevenBlack.host
+     131 raw/xiaobeita.host
+    6428 raw/yhosts.host
+     131 xiaobeita/hosts
+  614485 total
