@@ -1,0 +1,406 @@
+======twitter\.com======
+ads-api.twitter.com
+ads-bidder-api.twitter.com
+ads-twitter.com
+ads.twitter.com
+analytics.twitter.com
+p.ttwitter.com
+p.twitter.com
+poorlytwitter.com
+scribe.ttwitter.com
+scribe.twitter.com
+static.ads-twitter.com
+syndication-o.twitter.com
+syndication.twitter.com
+ttwitter.com
+urls.api.twitter.com
+www.ttwitter.com
+-.-.-twitter\.com-.-.-
+raw/yhosts.host:0.0.0.0 static.ads-twitter.com
+raw/StevenBlack.host:0.0.0.0 ttwitter.com
+raw/StevenBlack.host:0.0.0.0 www.ttwitter.com
+raw/StevenBlack.host:0.0.0.0 ads-api.twitter.com
+raw/StevenBlack.host:# [ads-twitter.com]
+raw/StevenBlack.host:0.0.0.0 ads-twitter.com
+raw/StevenBlack.host:0.0.0.0 static.ads-twitter.com
+raw/StevenBlack.host:# [twitter.com]
+raw/StevenBlack.host:0.0.0.0 ads.twitter.com
+raw/StevenBlack.host:0.0.0.0 ads-bidder-api.twitter.com
+raw/StevenBlack.host:0.0.0.0 analytics.twitter.com
+raw/StevenBlack.host:# 0.0.0.0 analytics.twitter.com #[affects Twitter Dashboard]
+raw/StevenBlack.host:0.0.0.0 scribe.twitter.com
+raw/StevenBlack.host:0.0.0.0 p.ttwitter.com
+raw/StevenBlack.host:0.0.0.0 scribe.ttwitter.com
+raw/StevenBlack.host:# credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
+raw/easylist.adg:||ads-twitter.com^
+raw/easylist.adg:||poorlytwitter.com^
+raw/filter_11_Mobile.adg:||ads-bidder-api.twitter.com^
+raw/filter_11_Mobile.adg:@@||static.ads-twitter.com^$app=jp.co.alc.eow
+raw/iOSAdblock.host:127.0.0.1 ads-bidder-api.twitter.com
+raw/iOSAdblock.host:127.0.0.1 ads-twitter.com
+raw/iOSAdblock.host:127.0.0.1 scribe.twitter.com
+raw/iOSAdblock.host:127.0.0.1 static.ads-twitter.com
+raw/ios_rule_script.adg:||ads-api.twitter.com^
+raw/ios_rule_script.adg:||ads-bidder-api.twitter.com^
+raw/ios_rule_script.adg:||archbishopsheettwitter.com^
+raw/ios_rule_script.adg:||p.ttwitter.com^
+raw/ios_rule_script.adg:||plaguealacritytwitter.com^
+raw/ios_rule_script.adg:||poorlytwitter.com^
+raw/ios_rule_script.adg:||scribe.ttwitter.com^
+raw/ios_rule_script.adg:||ads-twitter.com^
+raw/ios_rule_script.adg:||ads.twitter.com^
+raw/ios_rule_script.adg:||p.twitter.com^
+raw/ios_rule_script.adg:||scribe.twitter.com^
+raw/ios_rule_script.adg:||search.twitter.com^
+raw/ios_rule_script.adg:||syndication-o.twitter.com^
+raw/ios_rule_script.adg:||syndication.twitter.com^
+raw/ios_rule_script.adg:||urls.api.twitter.com^
+raw/11_optimized.adg:||ads-bidder-api.twitter.com^
+raw/11_optimized.adg:@@||static.ads-twitter.com^$app=jp.co.alc.eow
+raw/filter_224_Chinese.adg:/^(?!.*(mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|(\/\/|\.)vk\.com|yandex.|yastatic.net|ytimg.com|zencdn.net|player|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|ovscdns.com|alicdn.com|(\/\/|\.)x\.com)).*$/$third-party,script,_____,domain=manshuxs.com|yemancomic.com|qimiaoxiaoshuo.com|gaofuwu.org|nxpaaq.com|dengbi2.com|92hm.top|634.tv|myhaitang.cc|ckplayer.vip|qushucheng.com|av6k.com|18j.tv|uaa.com|xb6v.org|6v520.cc
+raw/filter_224_Chinese.adg:*$script,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|lamparasde.net|hoopchina.com.cn|kankan2024.com|ovscdns.com|rumanhua.org|cdnsrc.asp.net|ddxsmf.com|apps.bdimg.com|alicdn.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|wap.yushuwu.cloud|twbook.cc|vodtw.xyz|xbqg6.com|qq3009qq.link|18jtv.cc|m.haxuku.com|xm200.com|av6k.com|18j.tv|haiwaishubao.com|uaa.com|lamparasde.net|bbs.hupu.com|kankan2024.com|hanime1-me.icu|hanime1-me.top|rumanhua.org|ddxsmf.com|xb6v.org|6v520.cc
+raw/filter_224_Chinese.adg:*$script,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|lamparasde.net|hoopchina.com.cn|kankan2024.com|ovscdns.com,domain=banzhu1111111.com|banzhu2222222.com|banzhu3333333.com|banzhu4444444.com|banzhu5555555.com|banzhu6666666.com|banzhu7777777.com|banzhu8888888.com|banzhu9999999.com
+raw/filter_224_Chinese.adg:$script,third-party,denyallow=cdn.yinghuazy.xyz|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=mxdm.xyz
+raw/adaway.host:127.0.0.1 ads-twitter.com
+raw/adaway.host:127.0.0.1 static.ads-twitter.com
+raw/adaway.host:127.0.0.1 poorlytwitter.com
+raw/adaway.host:127.0.0.1 ads-api.twitter.com
+raw/adaway.host:127.0.0.1 syndication.twitter.com
+raw/adaway.host:127.0.0.1 ads.twitter.com
+raw/adaway.host:127.0.0.1 analytics.twitter.com
+raw/adaway.host:127.0.0.1 p.twitter.com
+raw/adaway.host:127.0.0.1 scribe.twitter.com
+raw/adaway.host:127.0.0.1 syndication-o.twitter.com
+raw/adaway.host:127.0.0.1 urls.api.twitter.com
+host:ads-api.twitter.com
+host:ads-bidder-api.twitter.com
+host:ads-twitter.com
+host:ads.twitter.com
+host:analytics.twitter.com
+host:p.ttwitter.com
+host:p.twitter.com
+host:poorlytwitter.com
+host:scribe.ttwitter.com
+host:scribe.twitter.com
+host:static.ads-twitter.com
+host:syndication-o.twitter.com
+host:syndication.twitter.com
+host:ttwitter.com
+host:urls.api.twitter.com
+host:www.ttwitter.com
+
+--------------------------------
+
+======p\.qlogo\.cn======
+p.qlogo.cn
+-.-.-p\.qlogo\.cn-.-.-
+raw/yhosts.host:0.0.0.0 p.qlogo.cn
+raw/filter_224_Chinese.adg:||p.qlogo.cn^$domain=jumi.tv
+host:p.qlogo.cn
+
+--------------------------------
+
+======ocsp\.======
+ev.ocsp.quovadisglobal.com
+ocsp.int-x3.letsencrypt.org
+root-c3-ca2-ev-2009.ocsp.d-trust.net
+-.-.-ocsp\.-.-.-
+raw/yhosts.host:0.0.0.0 ocsp.int-x3.letsencrypt.org
+raw/iOSAdblock.host:127.0.0.1 ev.ocsp.quovadisglobal.com
+raw/iOSAdblock.host:127.0.0.1 root-c3-ca2-ev-2009.ocsp.d-trust.net
+raw/ios_rule_script.adg:||ocsp.godaddy.com^
+host:ev.ocsp.quovadisglobal.com
+host:ocsp.int-x3.letsencrypt.org
+host:root-c3-ca2-ev-2009.ocsp.d-trust.net
+
+--------------------------------
+
+======abs\.twimg.com======
+-.-.-abs\.twimg.com-.-.-
+
+--------------------------------
+
+======c\.pc======
+63-217-112-145.static.pccwglobal.net.iberostar.com
+c.pc.qq.com
+kdpic.pchome.com.tw
+-.-.-c\.pc-.-.-
+raw/1024_hosts.host:127.0.0.1 c.pc.qq.com
+raw/ios_rule_script.adg:||c.pc.qq.com^
+raw/ios_rule_script.adg:||euomc.pcaskin.com^
+raw/ios_rule_script.adg:||kdpic.pchome.com.tw^
+raw/ios_rule_script.adg:||63-217-112-145.static.pccwglobal.net.iberostar.com^
+raw/filter_224_Chinese.adg:||kdpic.pchome.com.tw^
+raw/filter_224_Chinese.adg:@@||kdpic.pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
+raw/filter_224_Chinese.adg:@@||kdpic.pchome.com.tw/img/js/xpcadshow.js$script,domain=10co.xyz
+raw/adaway.host:127.0.0.1 63-217-112-145.static.pccwglobal.net.iberostar.com
+raw/adaway.host:127.0.0.1 kdpic.pchome.com.tw
+host:63-217-112-145.static.pccwglobal.net.iberostar.com
+host:c.pc.qq.com
+host:kdpic.pchome.com.tw
+
+--------------------------------
+
+======googletagservices======
+googletagservices-cn.com
+googletagservices.com
+www.googletagservices.com
+-.-.-googletagservices-.-.-
+raw/yhosts.host:0.0.0.0 www.googletagservices.com
+raw/StevenBlack.host:0.0.0.0 www.googletagservices.com
+raw/StevenBlack.host:#0.0.0.0 www.googletagservices.com		#interferes with techrepublic
+raw/StevenBlack.host:0.0.0.0 googletagservices.com
+raw/easylist.adg:||googletagservices.com^
+raw/filter_11_Mobile.adg:@@||googletagservices.com/tag/js/gpt.js$domain=mdpr.jp
+raw/filter_11_Mobile.adg:@@||googletagservices.com^$app=com.flightconnections
+raw/filter_11_Mobile.adg:@@||googletagservices.com/tag/js/gpt.js$domain=koigaku.machicon.jp
+raw/filter_11_Mobile.adg:@@||googletagservices.com/tag/js/gpt.js$domain=ukr.net
+raw/filter_11_Mobile.adg:||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,important,domain=ukr.net
+raw/iOSAdblock.host:127.0.0.1 googletagservices.com
+raw/iOSAdblock.host:127.0.0.1 www.googletagservices.com
+raw/ios_rule_script.adg:||googletagservices-cn.com^
+raw/ios_rule_script.adg:||googletagservices.com^
+raw/11_optimized.adg:@@||googletagservices.com^$app=com.flightconnections
+raw/11_optimized.adg:@@||googletagservices.com/tag/js/gpt.js$domain=koigaku.machicon.jp
+raw/11_optimized.adg:@@||googletagservices.com/tag/js/gpt.js$domain=ukr.net
+raw/11_optimized.adg:||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,important,domain=ukr.net
+raw/104_optimized.adg:@@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|tvbs.com.tw|www.gamer.com.tw
+raw/104_optimized.adg:@@||googletagservices.com^$script,domain=creaders.net
+raw/filter_224_Chinese.adg:mytvsuper.com#%#//scriptlet('googletagservices-gpt')
+raw/filter_224_Chinese.adg:||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=ani.gamer.com.tw
+raw/filter_224_Chinese.adg:||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=line.me
+raw/filter_224_Chinese.adg:||d.line-scdn.net/*/torimochi.js/*/torimochi.js$script,redirect=googletagservices-gpt,domain=line.me
+raw/filter_224_Chinese.adg:||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=gamer.com.tw,important
+raw/filter_224_Chinese.adg:@@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|tvbs.com.tw|www.gamer.com.tw
+raw/filter_224_Chinese.adg:@@||googletagservices.com^$script,domain=creaders.net
+raw/adaway.host:127.0.0.1 googletagservices-cn.com
+raw/adaway.host:127.0.0.1 googletagservices.com
+raw/adaway.host:127.0.0.1 www.googletagservices.com
+host:googletagservices-cn.com
+host:googletagservices.com
+host:www.googletagservices.com
+
+--------------------------------
+
+======zhwnlapi======
+-.-.-zhwnlapi-.-.-
+raw/ios_rule_script.adg:||zhwnlapi.etouch.cn^
+
+--------------------------------
+
+======samizdat======
+-.-.-samizdat-.-.-
+
+--------------------------------
+
+======pbs\.twimg======
+-.-.-pbs\.twimg-.-.-
+
+--------------------------------
+
+======crl3\.digicert\.com======
+-.-.-crl3\.digicert\.com-.-.-
+
+--------------------------------
+
+======crl4\.digicert\.com======
+-.-.-crl4\.digicert\.com-.-.-
+
+--------------------------------
+
+======ms\.bdstatic\.com======
+-.-.-ms\.bdstatic\.com-.-.-
+
+--------------------------------
+
+======safebrowsing\.googleapis\.com======
+-.-.-safebrowsing\.googleapis\.com-.-.-
+raw/ios_rule_script.adg:||safebrowsing.googleapis.com^
+
+--------------------------------
+
+======cdn.podigee\.com======
+cdn.podigee.com
+-.-.-cdn.podigee\.com-.-.-
+raw/iOSAdblock.host:127.0.0.1 cdn.podigee.com
+host:cdn.podigee.com
+
+--------------------------------
+
+======paypalobjects\.com======
+-.-.-paypalobjects\.com-.-.-
+raw/104_optimized.adg:@@||paypalobjects.com/pa/js/min/pa.js
+raw/104_optimized.adg:@@||paypalobjects.com/tagmgmt/bootstrap.js
+raw/filter_224_Chinese.adg:@@||paypalobjects.com/pa/js/min/pa.js
+raw/filter_224_Chinese.adg:@@||paypalobjects.com/tagmgmt/bootstrap.js
+
+--------------------------------
+
+======mtalk\.google\.com======
+-.-.-mtalk\.google\.com-.-.-
+raw/ios_rule_script.adg:||mtalk.google.com^
+
+--------------------------------
+
+======api\.nexx\.cloud======
+api.nexx.cloud
+-.-.-api\.nexx\.cloud-.-.-
+raw/iOSAdblock.host:127.0.0.1 api.nexx.cloud
+host:api.nexx.cloud
+
+--------------------------------
+
+======byteimg\.com======
+p3-ad-sign.byteimg.com
+p3-tt.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
+-.-.-byteimg\.com-.-.-
+raw/filter_224_Chinese.adg:@@||p3-tt.byteimg.com/obj/$domain=agedm.io
+raw/adaway.host:127.0.0.1 p3-tt.byteimg.com
+raw/adaway.host:127.0.0.1 p3-ad-sign.byteimg.com
+raw/adaway.host:127.0.0.1 p6-ad-sign.byteimg.com
+raw/adaway.host:127.0.0.1 p9-ad-sign.byteimg.com
+host:p3-ad-sign.byteimg.com
+host:p3-tt.byteimg.com
+host:p6-ad-sign.byteimg.com
+host:p9-ad-sign.byteimg.com
+
+--------------------------------
+
+======js\.braintreegateway\.com======
+js.braintreegateway.com
+-.-.-js\.braintreegateway\.com-.-.-
+raw/1024_hosts.host:127.0.0.1 js.braintreegateway.com
+raw/ios_rule_script.adg:||js.braintreegateway.com^
+host:js.braintreegateway.com
+
+--------------------------------
+
+======s\.youtube\.com======
+ads.youtube.com
+-.-.-s\.youtube\.com-.-.-
+raw/StevenBlack.host:0.0.0.0 ads.youtube.com
+raw/StevenBlack.host:#0.0.0.0 s.youtube.com				# Blocking this will interfere with video watching history and may interfere with Google Podcasts
+raw/filter_11_Mobile.adg:||ads.youtube.com^
+raw/iOSAdblock.host:127.0.0.1 ads.youtube.com
+raw/11_optimized.adg:||ads.youtube.com^
+raw/ad-wars.host:127.0.0.1 ads.youtube.com
+raw/adaway.host:127.0.0.1 ads.youtube.com
+host:ads.youtube.com
+
+--------------------------------
+
+======analytics\.map\.qq\.com======
+analytics.map.qq.com
+-.-.-analytics\.map\.qq\.com-.-.-
+raw/StevenBlack.host:0.0.0.0 analytics.map.qq.com
+raw/iOSAdblock.host:127.0.0.1 analytics.map.qq.com
+host:analytics.map.qq.com
+
+--------------------------------
+
+======cc\.map\.qq\.com======
+cc.map.qq.com
+-.-.-cc\.map\.qq\.com-.-.-
+raw/ios_rule_script.adg:||cc.map.qq.com^
+raw/ad-wars.host:127.0.0.1 cc.map.qq.com
+host:cc.map.qq.com
+
+--------------------------------
+
+======vectorsdk\.map\.qq\.com======
+vectorsdk.map.qq.com
+-.-.-vectorsdk\.map\.qq\.com-.-.-
+raw/iOSAdblock.host:127.0.0.1 vectorsdk.map.qq.com
+host:vectorsdk.map.qq.com
+
+--------------------------------
+
+======vk.com======
+kagxyvk.com
+ms.vk.com
+vk.com
+-.-.-vk.com-.-.-
+raw/1024_hosts.host:127.0.0.1 vk.com
+raw/filter_11_Mobile.adg:! m.vk.com
+raw/filter_11_Mobile.adg:m.vk.com,m.vk.ru#?#.upanel > div.wall_item:has(> div.wi_body:contains(/Реклама.*erid:/i))
+raw/filter_11_Mobile.adg:m.vk.com,m.vk.ru#?#.wall_item > div.wi_head > div[class^="PostHeader"] span[class^="PostHeader"] > span:contains(/^Реклама( в сообществе)?/):upward(.wall_item)
+raw/filter_11_Mobile.adg:m.vk.com,m.vk.ru##.wall_item[data-ad-view]
+raw/ios_rule_script.adg:||afafevk.com^
+raw/ios_rule_script.adg:||bzrpvk.com^
+raw/ios_rule_script.adg:||cwuaxtqahvk.com^
+raw/ios_rule_script.adg:||elqtrk.stamford-avk.com^
+raw/ios_rule_script.adg:||kagxyvk.com^
+raw/ios_rule_script.adg:||ljnzqwfujzvk.com^
+raw/ios_rule_script.adg:||oyxctgotabvk.com^
+raw/ios_rule_script.adg:||pipprfvhpykpvk.com^
+raw/ios_rule_script.adg:||qmaacxajsovk.com^
+raw/ios_rule_script.adg:||ss.grupovk.com^
+raw/ios_rule_script.adg:||vkjsnvk.com^
+raw/ios_rule_script.adg:||bivujadpvk.com^
+raw/ios_rule_script.adg:||dtusmzjdycvk.com^
+raw/ios_rule_script.adg:||jnjbdvchvk.com^
+raw/ios_rule_script.adg:||jrwlxwypmgvk.com^
+raw/ios_rule_script.adg:||knpbefvk.com^
+raw/ios_rule_script.adg:||pknzoizczuhjvk.com^
+raw/ios_rule_script.adg:||qeivncvk.com^
+raw/ios_rule_script.adg:||qlmygsvk.com^
+raw/ios_rule_script.adg:||shoizifjwosvk.com^
+raw/ios_rule_script.adg:||tqguvxunwvk.com^
+raw/ios_rule_script.adg:||zlfzeuvk.com^
+raw/ios_rule_script.adg:||ms.vk.com^
+raw/11_optimized.adg:m.vk.com,m.vk.ru#?#.upanel > div.wall_item:has(> div.wi_body:contains(/Реклама.*erid:/i))
+raw/11_optimized.adg:m.vk.com,m.vk.ru#?#.wall_item > div.wi_head > div[class^="PostHeader"] span[class^="PostHeader"] > span:contains(/^Реклама( в сообществе)?/):upward(.wall_item)
+raw/11_optimized.adg:m.vk.com,m.vk.ru##.wall_item[data-ad-view]
+raw/104_optimized.adg:||kagxyvk.com^
+raw/filter_224_Chinese.adg:*$script,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|lamparasde.net|hoopchina.com.cn|kankan2024.com|ovscdns.com|rumanhua.org|cdnsrc.asp.net|ddxsmf.com|apps.bdimg.com|alicdn.com,_____,domain=wap.dmwenku.com|m.wfxs.tw|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|wap.yushuwu.cloud|twbook.cc|vodtw.xyz|xbqg6.com|qq3009qq.link|18jtv.cc|m.haxuku.com|xm200.com|av6k.com|18j.tv|haiwaishubao.com|uaa.com|lamparasde.net|bbs.hupu.com|kankan2024.com|hanime1-me.icu|hanime1-me.top|rumanhua.org|ddxsmf.com|xb6v.org|6v520.cc
+raw/filter_224_Chinese.adg:*$script,third-party,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|lamparasde.net|hoopchina.com.cn|kankan2024.com|ovscdns.com,domain=banzhu1111111.com|banzhu2222222.com|banzhu3333333.com|banzhu4444444.com|banzhu5555555.com|banzhu6666666.com|banzhu7777777.com|banzhu8888888.com|banzhu9999999.com
+raw/filter_224_Chinese.adg:$script,third-party,denyallow=cdn.yinghuazy.xyz|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_____,domain=mxdm.xyz
+raw/filter_224_Chinese.adg:||kagxyvk.com^
+raw/adaway.host:127.0.0.1 kagxyvk.com
+raw/adaway.host:127.0.0.1 ms.vk.com
+host:kagxyvk.com
+host:ms.vk.com
+host:vk.com
+
+--------------------------------
+
+======auni\.telecome\.cn======
+-.-.-auni\.telecome\.cn-.-.-
+
+--------------------------------
+
+======click\.oneplus======
+click.oneplus.cn
+click.oneplus.com
+-.-.-click\.oneplus-.-.-
+raw/StevenBlack.host:0.0.0.0 click.oneplus.com
+raw/iOSAdblock.host:127.0.0.1 click.oneplus.com
+raw/ios_rule_script.adg:||click.oneplus.com^
+raw/ios_rule_script.adg:||click.oneplus.cn^
+raw/adaway.host:127.0.0.1 click.oneplus.cn
+host:click.oneplus.cn
+host:click.oneplus.com
+
+--------------------------------
+
+======open\.oneplus======
+open.oneplus.net
+-.-.-open\.oneplus-.-.-
+raw/StevenBlack.host:0.0.0.0 open.oneplus.net
+raw/iOSAdblock.host:127.0.0.1 open.oneplus.net
+raw/ios_rule_script.adg:||open.oneplus.net^
+raw/adaway.host:127.0.0.1 open.oneplus.net
+host:open.oneplus.net
+
+--------------------------------
+
+======static\.oneplus======
+static.oneplus.cn
+-.-.-static\.oneplus-.-.-
+raw/xiaobeita.host:127.0.0.1 static.oneplus.cn
+host:static.oneplus.cn
+
+--------------------------------
+
